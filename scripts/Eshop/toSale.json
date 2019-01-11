@@ -1,0 +1,80 @@
+[
+  {
+    "id": "dsf_samolepkaLATblack",
+    "filename": "samolepkaLATblack",
+    "name": "Samolepka na auto LAT černá",
+    "value": "100,- Kč"
+  },
+  {
+    "id": "dsf_samolepkaLATsilver",
+    "filename": "samolepkaLATsilver",
+    "name": "Samolepka na auto LAT stříbrná",
+    "value": "100,- Kč"
+  },
+  {
+    "id": "dsf_samolepkaSTTblack",
+    "filename": "samolepkaSTTblack",
+    "name": "Samolepka na auto STT černá",
+    "value": "100,- Kč"
+  },
+  {
+    "id": "dsf_samolepkaSTTsilver",
+    "filename": "samolepkaSTTsilver",
+    "name": "Samolepka na auto STT stříbrná",
+    "value": "100,- Kč"
+  },
+  {
+    "id": "dsf_kapesnicek",
+    "filename": "kapesnicek",
+    "name": "Kapesníček do saka",
+    "value": "150,- Kč"
+  },
+  {
+    "id": "dsf_kapesnicekSlozeny",
+    "filename": "kapesnicek2",
+    "name": "Kapesníček do saka složený",
+    "value": "150,- Kč"
+  },
+  {
+    "id": "dsf_keramika",
+    "filename": "keramika",
+    "name": "Glazovaná keramika",
+    "value": "100,- Kč"
+  },
+  {
+    "id": "dsf_kokardaCervena",
+    "filename": "kokardaRed",
+    "name": "Ozdobná kytička červená",
+    "value": "150,- Kč"
+  },
+  {
+    "id": "dsf_kokardaBila",
+    "filename": "kokardaWhite",
+    "name": "Ozdobná kytička bílá",
+    "value": "150,- Kč"
+  },
+  {
+    "id": "dsf_kokardaModra",
+    "filename": "kokardaBlue",
+    "name": "Ozdobná kytička modrá",
+    "value": "150,- Kč"
+  },
+  {
+    "id": "dsf_motylekCerveny",
+    "filename": "motylekRed",
+    "name": "Ozdobný motýlek červený",
+    "value": "150,- Kč"
+  },
+  {
+    "id": "dsf_motylekBiy",
+    "filename": "motylekWhite",
+    "name": "Ozdobný motýlek bílý",
+    "value": "150,- Kč"
+  },
+  {
+    "id": "dsf_motylekModry",
+    "filename": "motylekBlue",
+    "name": "Ozdobný motýlek modrý",
+    "value": "150,- Kč"
+  }
+]

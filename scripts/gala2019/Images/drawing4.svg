@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xml:space="preserve" width="100%" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" viewBox="0 0 30393 52000" id="svg2804" sodipodi:docname="Gala_hala_prazdna.svg" inkscape:version="0.92.3 (2405546, 2018-03-11)">
+    <style>
+        .desc {font-weight:normal;font-size:282.22px;font-family:'Arial'} 
+        .tables {font-weight:normal;font-size:635px;font-family:'Arial';} 
+        .places {font-weight:normal;font-size:550px;font-family:'Arial';} 
+        .white {fill:white;} 
+        .green {fill:#b0cb1f;} 
+        .red {fill:#e31e24;} 
+        .orange{fill: #FF4500}
+    </style>
+    <g id="freeSectors" fill="#b0cb1f">
+        <g id="Standing_C">
+            <rect style="stroke:#2b2a29;stroke-width:35.27999878;stroke-miterlimit:22.92560005" id="rect515" height="42249.641" width="2286.1899" y="5985.8501" x="27.040001" />
+            <rect style="stroke:#2b2a29;stroke-width:35.27999878;stroke-miterlimit:22.92560005" id="rect503" height="42223.18" width="2286.1899" y="6012.3101" x="28057.119" />
+        </g>
+    </g>
+    <g id="toplayer">
+        <g id="podium">
+            <path style="fill:#2b2a29;fill-rule:nonzero" inkscape:connector-curvature="0" id="path495" d="M 8397.04,10030.98 V 6025.93 h 73.72 v 4005.05 l -36.86,25.19 z m 36.86,25.19 h -36.86 v -25.19 z m 13070.44,0 H 8433.9 v -50.38 h 13070.44 l 36.86,25.19 z m 36.86,-25.19 v 25.19 h -36.86 z m 0,-4005.05 v 4005.05 h -73.72 V 6025.93 l 36.86,-25.19 z m -36.86,-25.19 h 36.86 v 25.19 z m -13070.44,0 h 13070.44 v 50.38 H 8433.9 l -36.86,-25.19 z m -36.86,25.19 v -25.19 h 36.86 z" class="fil0" />
+        </g>
+        <g id="parket">
+            <path style="fill:#2b2a29;fill-rule:nonzero" inkscape:connector-curvature="0" id="path499" d="M 8412.35,32125.07 V 10336.59 h 61.6 v 21788.48 l -30.8,33.8 z m 30.8,33.8 h -30.8 v -33.8 z m 13086,0 h -13086 v -67.6 h 13086 l 30.8,33.8 z m 30.8,-33.8 v 33.8 h -30.8 z m 0,-21788.48 v 21788.48 h -61.6 V 10336.59 l 30.8,-33.8 z m -30.8,-33.8 h 30.8 v 33.8 z m -13086,0 h 13086 v 67.6 h -13086 l -30.8,-33.8 z m -30.8,33.8 v -33.8 h 30.8 z" class="fil0" />
+        </g>
+        <rect style="fill:none;stroke:#2b2a29;stroke-width:50;stroke-miterlimit:22.92560005" id="rect505" height="51964.578" width="30296.369" y="-50.299999" x="46.84" class="fil1 str1" />
+        <text style="font-weight:bold;font-size:1693.32995605px;font-family:Arial;fill:#2b2a29" id="s07" class="fil2 fnt0" y="18393.23" x="11265.454">TANEČNÍ </text>
+        <text style="font-weight:bold;font-size:1693.32995605px;font-family:Arial;fill:#2b2a29" id="text509" class="fil2 fnt0" y="20284.961" x="11520.942">PARKET</text>
+        <text style="font-weight:bold;font-size:1693.32995605px;font-family:Arial;fill:#2b2a29" id="text511" class="fil2 fnt0" y="24068.42" x="10972.76">DANCING </text>
+        <text style="font-weight:bold;font-size:1693.32995605px;font-family:Arial;fill:#2b2a29" id="text513" class="fil2 fnt0" y="25960.15" x="11965.358">FLOOR</text>
+        <text style="font-weight:bold;font-size:1058.32995605px;font-family:Arial;fill:#2b2a29" id="text533" class="fil2 fnt2" y="3808.3201" x="9491.8975">ZÁZEMÍ / BACKSTAGE</text>
+        <text style="font-weight:bold;font-size:1128.89001465px;font-family:Arial;fill:#2b2a29" id="text535" class="fil2 fnt3" y="9282.0303" x="13073.489">STAGE</text>
+        <text style="font-weight:bold;font-size:1128.89001465px;font-family:Arial;fill:#2b2a29" id="text537" class="fil2 fnt3" y="7547.9399" x="12709.687">PODIUM</text>
+        <g id="g541" transform="rotate(-90.061567,1945.2381,27274.956)">
+            <text style="font-weight:bold;font-size:846.65997314px;font-family:Arial;fill:#2b2a29" id="text539" class="fil2 fnt4" y="26766.51" x="14856.11">Galerie</text>
+        </g>
+        <rect style="fill:none;stroke:#2b2a29;stroke-width:35.27999878;stroke-miterlimit:22.92560005" id="rect543" height="5798.4502" width="30293.561" y="37.419998" x="49.66" class="fil1 str0" />
+        <g id="g547" transform="rotate(-90.059773,16021.363,13308.07)">
+            <text style="font-weight:bold;font-size:846.65997314px;font-family:Arial;fill:#2b2a29" id="text545" class="fil2 fnt4" y="26766.51" x="14856.35">Galerie</text>
+        </g>
+        <rect style="fill:none;stroke:#2b2a29;stroke-width:9.19803143;stroke-miterlimit:22.92560005" y="22885.547" x="25323.025" id="rect549" height="3254.967" width="9784.252" transform="matrix(0.73246294,0.68080691,-0.67680498,0.73616235,0,0)" class="fil1 str3" />
+        <text style="font-weight:bold;font-size:352.77999878px;font-family:Arial;fill:#2b2a29" id="text551" class="fil2 fnt5" y="28790.789" x="14526.53">volné</text>
+        <rect style="fill:#b0cb1f;stroke:#2b2a29;stroke-width:51.12591171;stroke-miterlimit:22.92560005" y="-28827.512" x="-16207.977" id="rect553" height="442.30872" width="442.30872" transform="rotate(-179.72098)" class="fil4 str0" />
+        <rect style="fill:#e31e24;stroke:#2b2a29;stroke-width:51.12591171;stroke-miterlimit:22.92560005" y="-30016.971" x="-16219.47" id="rect555" height="442.30872" width="442.30872" transform="rotate(-179.72098)" class="fil5 str0" />
+        <text style="font-weight:bold;font-size:352.77999878px;font-family:Arial;fill:#2b2a29" id="text557" class="fil2 fnt5" y="40484.32" x="26404.801">40 cm</text>
+        <text style="font-weight:bold;font-size:352.77999878px;font-family:Arial;fill:#2b2a29" id="text559" class="fil2 fnt5" y="40090.211" x="26267.34">elevace</text>
+        <text style="font-weight:bold;font-size:352.77999878px;font-family:Arial;fill:#2b2a29" id="text561" class="fil2 fnt5" y="51355.93" x="14816.03">80 cm</text>
+        <text style="font-weight:bold;font-size:352.77999878px;font-family:Arial;fill:#2b2a29" id="text563" class="fil2 fnt5" y="50961.82" x="14678.57">elevace</text>
+        <text style="font-weight:bold;font-size:352.77999878px;font-family:Arial;fill:#2b2a29" id="text2753" class="fil2 fnt8" y="30034.33" x="13869.71">obsazené</text>
+        <text style="font-weight:bold;font-size:352.77999878px;font-family:Arial;fill:#2b2a29" id="text2755" class="fil2 fnt8" y="40725.211" x="3433.1299">elevace</text>
+        <text style="font-weight:bold;font-size:352.77999878px;font-family:Arial;fill:#2b2a29" id="text2757" class="fil2 fnt8" y="41119.32" x="3570.5901">40 cm</text>
+    </g>
+    <g id="tables">
+        <g id="T3">
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_3_1" x="-13330.5" y="26824.1" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_3_2" x="-13331.1" y="25922.199" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_3_3" x="-15590.8" y="26815.301" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_3_4" x="-14890.5" y="27521.6" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_3_5" x="-13982.1" y="27509.699" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_3_6" x="-15598.2" y="25916.9" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_3_7" x="-14978.1" y="25227.699" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_3_8" x="-13999.1" y="25221.1" />
+            <ellipse class="fil1 str2" cx="26584.279" cy="14242.88" rx="925.84003" ry="895.96997" id="Table_3" />
+            <text x="26392.381" y="14449.52" class="tables white" id="text529" >3</text>
+        </g>
+        <g id="T2">
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_2_4" x="-11346.1" y="23616" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_2_3" x="-11346.7" y="22714.1" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_2_7" x="-13606.4" y="23607.199" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_2_6" x="-12906.1" y="24313.5" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_2_5" x="-11997.7" y="24301.6" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_2_8" x="-13613.8" y="22708.9" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_2_1" x="-12993.7" y="22019.6" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_2_2" x="-12014.8" y="22013" />
+            <ellipse class="fil1 str2" cx="23376.199" cy="12258.5" rx="925.84003" ry="895.96997" id="Table_2" />
+            <text x="23184.301" y="12465.14"  class="tables white" id="text597" >2</text>
+        </g>
+        <g id="T4">
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_4_4" x="-15151.6" y="23607.801" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_4_3" x="-15152.1" y="22705.9" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_4_7" x="-17411.9" y="23598.9" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_4_6" x="-16711.6" y="24305.199" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_4_5" x="-15803.2" y="24293.4" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_4_8" x="-17419.199" y="22700.6" />
+            <ellipse class="fil1 str2" cx="23367.939" cy="16063.97" rx="925.84003" ry="895.96997" id="Table_4" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_4_1" x="-16799.199" y="22011.301" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_4_2" x="-15820.2" y="22004.699" />
+            <text x="23176.039" y="16270.61"  class="tables white" id="text633" >4</text>
+        </g>
+        <g id="T5">
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_5_4" x="-17418.5" y="26819" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_5_3" x="-17419.1" y="25917.1" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_5_7" x="-19678.801" y="26810.1" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_5_6" x="-18978.5" y="27516.5" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_5_5" x="-18070.1" y="27504.6" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_5_8" x="-19686.199" y="25911.801" />
+            <ellipse class="fil1 str2" cx="26579.16" cy="18330.9" rx="925.84003" ry="895.96997" id="Table_5" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_5_1" x="-19066.1" y="25222.5" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_5_2" x="-18087.199" y="25215.9" />
+            <text x="26387.26" y="18537.539"  class="tables white" id="text669" >5</text>
+        </g>
+        <g id="T6">
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_6_4" x="-19776.801" y="23597.1" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_6_3" x="-19777.4" y="22695.199" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_6_7" x="-22037.1" y="23588.301" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_6_6" x="-21336.801" y="24294.6" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_6_5" x="-20428.4" y="24282.699" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_6_8" x="-22044.5" y="22689.9" />
+            <ellipse class="fil1 str2" cx="23357.289" cy="20689.18" rx="925.84003" ry="895.96997" id="Table_6" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_6_1" x="-21424.4" y="22000.699" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_6_2" x="-20445.4" y="21994.1" />
+            <text x="23165.391" y="20895.82" class="tables white" id="text705" >6</text>
+        </g>
+        <g id="T7">
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_7_4" x="-21991.4" y="26793.1" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_7_3" x="-21991.9" y="25891.199" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_7_7" x="-24251.699" y="26784.301" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_7_6" x="-23551.4" y="27490.6" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_7_5" x="-22643" y="27478.801" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_7_8" x="-24259" y="25886" />
+            <ellipse class="fil1 str2" cx="26553.32" cy="22903.77" rx="925.84003" ry="895.96997" id="Table_7" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_7_1" x="-23639" y="25196.699" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_7_2" x="-22660" y="25190.1" />
+            <text x="26361.42" y="23110.41"  class="tables white" id="text741" >7</text>
+        </g>
+        <g id="T8">
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_8_4" x="-24284.699" y="23591.801" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_8_3" x="-24285.301" y="22689.9" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_8_7" x="-26545.1" y="23583" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_8_6" x="-25844.699" y="24289.301" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_8_5" x="-24936.301" y="24277.4" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_8_8" x="-26552.4" y="22684.699" />
+            <ellipse class="fil1 str2" cx="23352.01" cy="25197.119" rx="925.84003" ry="895.96997" id="Table_8" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_8_1" x="-25932.301" y="21995.4" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_8_2" x="-24953.4" y="21988.801" />
+            <text x="23160.109" y="25403.76"  class="tables white" id="text777" >8</text>
+        </g>
+        <g id="T9">
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_9_4" x="-26516.6" y="26755.1" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_9_3" x="-26517.199" y="25853.199" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_9_7" x="-28776.9" y="26746.199" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_9_6" x="-28076.6" y="27452.6" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_9_5" x="-27168.199" y="27440.699" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_9_8" x="-28784.301" y="25847.9" />
+            <ellipse class="fil1 str2" cx="26515.25" cy="27429.01" rx="925.84003" ry="895.96997" id="Table_9" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_9_1" x="-28164.199" y="25158.6" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_9_2" x="-27185.301" y="25152" />
+            <text x="26323.35" y="27635.65"  class="tables white" id="text813" >9</text>
+        </g>
+        <g id="T10">
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_10_4" x="-28882.1" y="23591.6" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_10_3" x="-28882.699" y="22689.699" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_10_7" x="-31142.4" y="23582.801" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_10_6" x="-30442.1" y="24289.1" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_10_5" x="-29533.699" y="24277.199" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_10_8" x="-31149.801" y="22684.4" />
+            <ellipse class="fil1 str2" cx="23351.789" cy="29794.48" rx="925.84003" ry="895.96997" id="Table_10" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_10_1" x="-30529.699" y="21995.199" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_10_2" x="-29550.699" y="21988.6" />
+            <text x="22983.301" y="30001.119"  class="tables white" id="text849" >10</text>
+        </g>
+        <g id="T11">
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_11_4" x="-31023.801" y="26762.301" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_11_3" x="-31024.301" y="25860.4" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_11_7" x="-33284.102" y="26753.5" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_11_6" x="-32583.801" y="27459.801" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_11_5" x="-31675.4" y="27448" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_11_8" x="-33291.398" y="25855.199" />
+            <ellipse class="fil1 str2" cx="26522.52" cy="31936.17" rx="925.84003" ry="895.96997" id="Table_11" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_11_1" x="-32671.4" y="25165.9" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_11_2" x="-31692.4" y="25159.301" />
+            <text x="26177.58" y="32142.811"  class="tables white" id="text885" >11</text>
+        </g>
+        <g id="T1">
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_1_4" x="-9891.96" y="26818.9" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_1_3" x="-9892.5195" y="25917.1" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_1_7" x="-12152.3" y="26810.1" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_1_6" x="-11452" y="27516.4" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_1_5" x="-10543.6" y="27504.6" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_1_8" x="-12159.6" y="25911.801" />
+            <ellipse class="fil1 str2" cx="26579.131" cy="10804.35" rx="925.84003" ry="895.96997" id="Table_1" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_1_1" x="-11539.6" y="25222.5" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_1_2" x="-10560.6" y="25215.9" />
+            <text x="26387.23" y="11010.99"  class="tables white" id="text921" >1</text>
+        </g>
+        <g id="T12">
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_12_4" x="-33831.602" y="23706" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_12_3" x="-33832.199" y="22804.199" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_12_7" x="-36092" y="23697.199" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_12_6" x="-35391.602" y="24403.5" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_12_5" x="-34483.199" y="24391.699" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_12_8" x="-36099.301" y="22798.9" />
+            <ellipse class="fil1 str2" cx="23466.23" cy="34744.031" rx="925.84003" ry="895.96997" id="Table_12" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_12_1" x="-35479.199" y="22109.6" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_12_2" x="-34500.301" y="22103" />
+            <text x="23097.74" y="34950.672"  class="tables white" id="text957" >12</text>
+        </g>
+        <g id="T13">
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_13_1" x="-33182.398" y="19659.5" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_13_2" x="-33183" y="18757.6" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_13_3" x="-35442.699" y="19650.6" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_13_4" x="-34742.398" y="20357" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_13_5" x="-33834" y="20345.1" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_13_6" x="-35450.102" y="18752.301" />
+            <ellipse class="fil1 str2" cx="19419.66" cy="34094.789" rx="925.84003" ry="895.96997" id="Table_13" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_13_7" x="-34754.5" y="18030" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_13_8" x="-33851" y="18056.4" />
+            <text x="19051.17" y="34301.43"  class="tables white" id="text993" >13</text>
+        </g>
+        <g id="T15">
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_15_2" x="-35720.801" y="15361.1" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_15_1" x="-35721.398" y="14459.2" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_15_5" x="-37981.102" y="15352.3" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_15_4" x="-37280.801" y="16058.6" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_15_3" x="-36372.398" y="16046.7" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_15_6" x="-37988.5" y="14454" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_15_7" x="-37293" y="13731.6" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_15_8" x="-36389.5" y="13758.1" />
+            <ellipse class="fil1 str2" cx="15121.3" cy="36633.211" rx="925.84003" ry="895.96997" id="Table_15" />
+            <text x="14752.81" y="36839.852"  class="tables white" id="text1029" >15</text>
+        </g>
+        <g id="T17">
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_17_2" x="-33127.898" y="11101.3" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_17_1" x="-33128.5" y="10199.4" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_17_5" x="-35388.199" y="11092.5" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_17_4" x="-34687.898" y="11798.8" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_17_3" x="-33779.5" y="11786.9" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_17_6" x="-35395.602" y="10194.2" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_17_7" x="-34700" y="9471.8203" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_17_8" x="-33796.5" y="9498.29" />
+            <ellipse class="fil1 str2" cx="10861.51" cy="34040.289" rx="925.84003" ry="895.96997" id="Table_17" />
+            <text x="10493.02" y="34246.93"  class="tables white" id="text1065" >17</text>
+        </g>
+        <g id="T14">
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_14_2" x="-36772" y="20954.801" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_14_1" x="-36772.602" y="20052.9" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_14_5" x="-39032.301" y="20945.9" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_14_4" x="-38332" y="21652.199" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_14_3" x="-37423.602" y="21640.4" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_14_6" x="-39039.699" y="20047.6" />
+            <ellipse class="fil1 str2" cx="20714.939" cy="37684.398" rx="925.84003" ry="895.96997" id="Table_14" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_14_7" x="-38344.102" y="19325.199" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_14_8" x="-37440.699" y="19351.699" />
+            <text x="20346.449" y="37891.039"  class="tables white" id="text1101" >14</text>
+        </g>
+        <g id="T16">
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_16_2" x="-39017" y="17419.1" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_16_1" x="-39017.602" y="16517.199" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_16_5" x="-41277.301" y="17410.199" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_16_4" x="-40577" y="18116.6" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_16_3" x="-39668.602" y="18104.699" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_16_6" x="-41284.699" y="16511.9" />
+            <ellipse class="fil1 str2" cx="17179.25" cy="39929.41" rx="925.84003" ry="895.96997" id="Table_16" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_16_7" x="-40589.199" y="15789.6" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_16_8" x="-39685.699" y="15816" />
+            <text x="16810.76" y="40136.051"  class="tables white" id="text1137" >16</text>
+        </g>
+        <g id="T18">
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_18_2" x="-39028.102" y="12900.5" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_18_1" x="-39028.699" y="11998.6" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_18_5" x="-41288.398" y="12891.7" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_18_4" x="-40588.102" y="13598" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_18_3" x="-39679.699" y="13586.1" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_18_6" x="-41295.801" y="11993.3" />
+            <ellipse class="fil1 str2" cx="12660.67" cy="39940.5" rx="925.84003" ry="895.96997" id="Table_18" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_18_7" x="-40600.199" y="11271" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_18_8" x="-39696.801" y="11297.4" />
+            <text x="12292.18" y="40147.141"  class="tables white" id="text1173" >18</text>
+        </g>
+        <g id="T19">
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_19_2" x="-36409.898" y="9620.7803" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_19_1" x="-36410.5" y="8718.9004" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_19_5" x="-38670.199" y="9611.9502" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_19_4" x="-37969.898" y="10318.3" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_19_3" x="-37061.5" y="10306.4" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_19_6" x="-38677.602" y="8713.6201" />
+            <ellipse class="fil1 str2" cx="9380.9697" cy="37322.289" rx="925.84003" ry="895.96997" id="Table_19" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_19_7" x="-37982" y="7991.2798" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_19_8" x="-37078.5" y="8017.75" />
+            <text x="9012.4805" y="37528.93"  class="tables white" id="text1209" >19</text>
+        </g>
+        <g id="T20">
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_20_2" x="-33560.699" y="6493.96" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_20_1" x="-33561.301" y="5592.0801" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_20_5" x="-35821" y="6485.1299" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_20_4" x="-35120.699" y="7191.46" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_20_3" x="-34212.301" y="7179.5898" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_20_6" x="-35828.398" y="5586.7998" />
+            <ellipse class="fil1 str2" cx="6254.1499" cy="34473.102" rx="925.84003" ry="895.96997" id="Table_20" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_20_7" x="-35132.801" y="4864.46" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_20_8" x="-34229.398" y="4890.9302" />
+            <text x="5885.6602" y="34679.738"  class="tables white" id="text1245" >20</text>
+        </g>
+        <g id="T21">
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_21_1" x="-30340.1" y="4202.8301" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_21_2" x="-30340.699" y="3300.95" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_21_3" x="-32600.5" y="4194" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_21_4" x="-31900.1" y="4900.3301" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_21_5" x="-30991.699" y="4888.46" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_21_6" x="-32607.801" y="3295.6699" />
+            <ellipse class="fil1 str2" cx="3963.02" cy="31252.529" rx="925.84003" ry="895.96997" id="Table_21" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_21_7" x="-31912.301" y="2573.3301" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_21_8" x="-31008.801" y="2599.8" />
+            <text x="3594.53" y="31459.17"  class="tables white" id="text1281" >21</text>
+        </g>
+        <g id="T22">
+            <rect y="7086.3599" x="-28566.801" id="Chair_22_8" height="442" width="442" transform="rotate(-90)" />
+            <rect y="6184.48" x="-28567.4" id="Chair_22_7" height="442" width="442" transform="rotate(-90)" />
+            <rect y="7077.5298" x="-30827.1" id="Chair_22_3" height="442" width="442" transform="rotate(-90)" />
+            <rect y="7783.8599" x="-30126.801" id="Chair_22_2" height="442" width="442" transform="rotate(-90)" />
+            <rect y="7771.9902" x="-29218.4" id="Chair_22_1" height="442" width="442" transform="rotate(-90)" />
+            <rect y="6179.2002" x="-30834.5" id="Chair_22_4" height="442" width="442" transform="rotate(-90)" />
+            <ellipse id="Table_22" ry="895.96997" rx="925.84003" cy="29479.189" cx="6846.5498" class="fil1 str2" />
+            <rect y="5456.8599" x="-30138.9" id="Chair_22_5" height="442" width="442" transform="rotate(-90)" />
+            <rect y="5483.3301" x="-29235.4" id="Chair_22_6" height="442" width="442" transform="rotate(-90)" />
+            <text  id="text1317"  class="tables white" y="29685.83" x="6478.0601">22</text>
+        </g>
+        <g id="T23">
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_23_8" x="-25981.1" y="4219.77" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_23_7" x="-25981.699" y="3317.8899" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_23_3" x="-28241.4" y="4210.9399" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_23_2" x="-27541.1" y="4917.27" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_23_1" x="-26632.699" y="4905.3999" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_23_4" x="-28248.801" y="3312.6101" />
+            <ellipse class="fil1 str2" cx="3979.96" cy="26893.5" rx="925.84003" ry="895.96997" id="Table_23" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_23_5" x="-27553.199" y="2590.27" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_23_6" x="-26649.801" y="2616.74" />
+            <text x="3611.47" y="27100.141"  class="tables white" id="text1353" >23</text>
+        </g>
+        <g id="T24">
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_24_8" x="-24129" y="7014.8501" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_24_7" x="-24129.6" y="6112.9702" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_24_3" x="-26389.4" y="7006.02" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_24_2" x="-25689" y="7712.3501" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_24_1" x="-24780.6" y="7700.48" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_24_4" x="-26396.699" y="6107.6899" />
+            <ellipse class="fil1 str2" cx="6775.04" cy="25041.42" rx="925.84003" ry="895.96997" id="Table_24" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_24_5" x="-25701.199" y="5385.3501" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_24_6" x="-24797.699" y="5411.8198" />
+            <text x="6406.5498" y="25248.061"  class="tables white" id="text1389" >24</text>
+        </g>
+        <g id="T25">
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_25_8" x="-21539" y="4157.9399" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_25_7" x="-21539.6" y="3256.0601" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_25_3" x="-23799.301" y="4149.1099" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_25_2" x="-23099" y="4855.4399" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_25_1" x="-22190.6" y="4843.5698" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_25_4" x="-23806.699" y="3250.78" />
+            <ellipse class="fil1 str2" cx="3918.1299" cy="22451.41" rx="925.84003" ry="895.96997" id="Table_25" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_25_5" x="-23111.199" y="2528.4399" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_25_6" x="-22207.699" y="2554.9099" />
+            <text x="3549.6399" y="22658.051"  class="tables white" id="text1425" >25</text>
+        </g>
+        <g id="T26">
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_26_8" x="-19746.6" y="7053.1602" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_26_7" x="-19747.1" y="6151.2798" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_26_3" x="-22006.9" y="7044.3301" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_26_2" x="-21306.6" y="7750.6602" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_26_1" x="-20398.199" y="7738.79" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_26_4" x="-22014.199" y="6146" />
+            <ellipse class="fil1 str2" cx="6813.3501" cy="20658.971" rx="925.84003" ry="895.96997" id="Table_26" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_26_5" x="-21318.699" y="5423.6602" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_26_6" x="-20415.199" y="5450.1299" />
+            <text x="6444.8599" y="20865.609"  class="tables white" id="text1461" >26</text>
+        </g>
+        <g id="T27">
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_27_8" x="-17230" y="4124.3301" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_27_7" x="-17230.6" y="3222.45" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_27_3" x="-19490.4" y="4115.5" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_27_2" x="-18790" y="4821.8301" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_27_1" x="-17881.6" y="4809.96" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_27_4" x="-19497.699" y="3217.1699" />
+            <ellipse cx="3884.52" cy="18142.439" rx="925.84003" ry="895.96997" id="Table_27" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_27_5" x="-18802.199" y="2494.8301" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_27_6" x="-17898.699" y="2521.3" />
+            <text x="3516.03" y="18349.08" class="tables white" id="text1497" >27</text>
+        </g>
+        <g id="T28">
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_28_8" x="-15343.9" y="7044.9199" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_28_7" x="-15344.4" y="6143.04" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_28_3" x="-17604.199" y="7036.0898" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_28_2" x="-16903.9" y="7742.4199" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_28_1" x="-15995.5" y="7730.5498" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_28_4" x="-17611.5" y="6137.7598" />
+            <ellipse class="fil1 str2" cx="6805.1099" cy="16256.27" rx="925.84003" ry="895.96997" id="Table_28" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_28_5" x="-16916" y="5415.4199" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_28_6" x="-16012.5" y="5441.8901" />
+            <text x="6436.6201" y="16462.91"  class="tables white" id="text1533" >28</text>
+        </g>
+        <g id="T29">
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_29_8" x="-13006.3" y="4203.8901" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_29_7" x="-13006.9" y="3302.01" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_29_3" x="-15266.7" y="4195.0601" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_29_2" x="-14566.3" y="4901.3901" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_29_1" x="-13657.9" y="4889.52" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_29_4" x="-15274" y="3296.73" />
+            <ellipse class="fil1 str2" cx="3964.0801" cy="13918.74" rx="925.84003" ry="895.96997" id="Table_29" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_29_5" x="-14578.5" y="2574.3899" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_29_6" x="-13675" y="2600.8601" />
+            <text x="3595.5901" y="14125.38"  class="tables white" id="text1569" >29</text>
+        </g>
+        <g id="T30">
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_30_8" x="-11144.6" y="6938.4199" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_30_7" x="-11145.2" y="6036.54" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_30_3" x="-13405" y="6929.5898" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_30_2" x="-12704.6" y="7635.9199" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_30_1" x="-11796.2" y="7624.0498" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_30_4" x="-13412.3" y="6031.2598" />
+            <ellipse class="fil1 str2" cx="6698.6099" cy="12057.02" rx="925.84003" ry="895.96997" id="Table_30" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_30_5" x="-12716.8" y="5308.9199" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_30_6" x="-11813.3" y="5335.3901" />
+            <text x="6330.1201" y="12263.66"  class="tables white" id="text1605" >30</text>
+        </g>
+        <g id="T31">
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_31_8" x="-9347.2695" y="4310.6602" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_31_7" x="-9347.8301" y="3408.78" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_31_3" x="-11607.6" y="4301.8301" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_31_2" x="-10907.3" y="5008.1602" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_31_1" x="-9998.8701" y="4996.29" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_31_4" x="-11614.9" y="3403.5" />
+            <ellipse class="fil1 str2" cx="4070.8501" cy="10259.66" rx="925.84003" ry="895.96997" id="Table_31" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_31_5" x="-10919.4" y="2681.1599" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_31_6" x="-10015.9" y="2707.6299" />
+            <text x="3702.3601" y="10466.3"  class="tables white" id="text1641" >31</text>
+        </g>
+        <g id="T32">
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_32_2" x="-39207.102" y="7484.4199" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_32_1" x="-39207.699" y="6582.54" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_32_5" x="-41467.398" y="7475.5898" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_32_4" x="-40767.102" y="8181.9199" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_32_3" x="-39858.699" y="8170.0498" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_32_6" x="-41474.801" y="6577.2598" />
+            <ellipse class="fil1 str2" cx="7244.6099" cy="40119.48" rx="925.84003" ry="895.96997" id="Table_32" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_32_7" x="-40779.199" y="5854.9199" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_32_8" x="-39875.699" y="5881.3901" />
+            <text x="6876.1201" y="40326.121"  class="tables white" id="text1677" >32</text>
+        </g>
+        <g id="T33">
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_33_2" x="-36483.199" y="4530.4399" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_33_1" x="-36483.699" y="3628.5601" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_33_5" x="-38743.5" y="4521.6099" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_33_4" x="-38043.199" y="5227.9399" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_33_3" x="-37134.801" y="5216.0698" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_33_6" x="-38750.801" y="3623.28" />
+            <ellipse class="fil1 str2" cx="4290.6299" cy="37395.57" rx="925.84003" ry="895.96997" id="Table_33" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_33_7" x="-38055.301" y="2900.9399" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_33_8" x="-37151.801" y="2927.4099" />
+            <text x="3922.1399" y="37602.211"  class="tables white" id="text1713" >33</text>
+        </g>
+        <g id="T35">
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_35_2" x="-36395.199" y="26568.301" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_35_1" x="-36395.801" y="25666.5" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_35_5" x="-38655.5" y="26559.5" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_35_4" x="-37955.199" y="27265.801" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_35_3" x="-37046.801" y="27254" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_35_6" x="-38662.898" y="25661.199" />
+            <ellipse class="fil1 str2" cx="26328.529" cy="37307.59" rx="925.84003" ry="895.96997" id="Table_35" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_35_7" x="-37967.301" y="24938.801" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_35_8" x="-37063.801" y="24965.301" />
+            <text x="25960.039" y="37514.23"  class="tables white" id="text1749" >35</text>
+        </g>
+        <g id="T34">
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_34_8" x="-39537.102" y="23572.699" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_34_7" x="-39537.602" y="22670.801" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_34_3" x="-41797.398" y="23563.9" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_34_2" x="-41097.102" y="24270.199" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_34_1" x="-40188.699" y="24258.301" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_34_4" x="-41804.699" y="22665.5" />
+            <ellipse class="fil1 str2" cx="23332.881" cy="40449.469" rx="925.84003" ry="895.96997" id="Table_34" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_34_5" x="-41109.199" y="21943.199" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_34_6" x="-40205.699" y="21969.699" />
+            <text x="22964.391" y="40656.109"  class="tables white" id="text1785" >34</text>
+        </g>
+        <rect style="fill:none;stroke:#2b2a29;stroke-width:9.97664928;stroke-miterlimit:22.92560005" y="43648.031" x="7022.2031" id="TBD" height="4222.6997" width="16655.895" transform="matrix(0.99999837,-0.00180737,0.00496994,0.99998765,0,0)" class="fil1 str3" />
+        <rect style="fill:none;stroke:#2b2a29;stroke-width:8.54344654;stroke-miterlimit:22.92560005" y="43371.977" x="-15123.073" id="TBD2" height="3022.676" width="9089.8984" transform="rotate(-45.888197)" class="fil1 str3" />
+        <g id="T36" inkscape:label="#g1165">
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_36_8" x="-44953.5" y="22100.9" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_36_7" x="-44954.102" y="21199" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_36_3" x="-47213.898" y="22092.1" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_36_2" x="-46513.5" y="22798.4" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_36_1" x="-45605.102" y="22786.5" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_36_4" x="-47221.199" y="21193.699" />
+            <ellipse class="fil1 str2" cx="21861.08" cy="45865.93" rx="925.84003" ry="895.96997" id="Table_36" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_36_5" x="-46525.699" y="20471.4" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_36_6" x="-45622.199" y="20497.9" />
+            <text x="21492.59" y="46072.57"  class="tables white" id="text1825" >36</text>
+        </g>
+        <g id="T37" inkscape:label="#g1185">
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_37_2" x="-44964.602" y="17832.301" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_37_1" x="-44965.199" y="16930.4" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_37_5" x="-47225" y="17823.5" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_37_4" x="-46524.602" y="18529.801" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_37_3" x="-45616.199" y="18517.9" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_37_6" x="-47232.301" y="16925.199" />
+            <ellipse class="fil1 str2" cx="17592.5" cy="45877.02" rx="925.84003" ry="895.96997" id="Table_37" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_37_7" x="-46536.801" y="16202.8" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_37_8" x="-45633.301" y="16229.3" />
+            <text x="17224.01" y="46083.66"  class="tables white" id="text1861" >37</text>
+        </g>
+        <g id="T38" inkscape:label="#g1205">
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_38_2" x="-44953.699" y="13723.9" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_38_1" x="-44954.301" y="12822" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_38_5" x="-47214" y="13715.1" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_38_4" x="-46513.699" y="14421.4" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_38_3" x="-45605.301" y="14409.5" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_38_6" x="-47221.398" y="12816.7" />
+            <ellipse class="fil1 str2" cx="13484.08" cy="45866.109" rx="925.84003" ry="895.96997" id="Table_38" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_38_7" x="-46525.898" y="12094.4" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_38_8" x="-45622.398" y="12120.9" />
+            <text x="13115.59" y="46072.75"  class="tables white" id="text1897" >38</text>
+        </g>
+        <g id="T39" inkscape:label="#g1145">
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_39_2" x="-44961.301" y="9680.5898" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_39_1" x="-44961.898" y="8778.71" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_39_5" x="-47221.602" y="9671.7598" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_39_4" x="-46521.301" y="10378.1" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_39_3" x="-45612.898" y="10366.2" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_39_6" x="-47229" y="8773.4297" />
+            <ellipse class="fil1 str2" cx="9440.7803" cy="45873.699" rx="925.84003" ry="895.96997" id="Table_39" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_39_7" x="-46533.398" y="8051.0898" />
+            <rect transform="rotate(-90)" width="442" height="442" id="Chair_39_8" x="-45630" y="8077.5601" />
+            <text x="9072.29" y="46080.34"  class="tables white" id="text1933" >39</text>
+        </g>
+    </g>
+    <g id="paySectors">
+        <g id="Sektor_E">
+            <rect id="Sector_E_1_30" width="800" height="767.10168" x="2174.25" y="48464.891" />
+            <rect id="Sector_E_1_29" width="800" height="767.10175" x="2981.4619" y="48464.891" />
+            <rect id="Sector_E_1_28" width="800" height="767.10175" x="3788.6738" y="48464.891" />
+            <rect id="Sector_E_1_27" width="800" height="767.10181" x="4595.8857" y="48464.891" />
+            <rect id="Sector_E_1_26" width="800" height="767.101775" x="5403.0977" y="48464.891" />
+            <rect id="Sector_E_1_25" width="800" height="767.10181" x="6210.3096" y="48464.891" />
+            <rect id="Sector_E_1_24" width="800" height="767.10181" x="7017.5215" y="48464.891" />
+            <rect id="Sector_E_1_23" width="800" height="767.10193" x="7824.7334" y="48464.891" />
+            <rect id="Sector_E_1_22" width="800" height="767.10175" x="8631.9453" y="48464.891" />
+            <rect id="Sector_E_1_21" width="800" height="767.10181" x="9439.1572" y="48464.891" />
+            <rect id="Sector_E_1_20" width="800" height="767.10181" x="10246.369" y="48464.891" />
+            <rect id="Sector_E_1_19" width="800" height="767.10193" x="11053.581" y="48464.891" />
+            <rect id="Sector_E_1_18" width="800" height="767.10181" x="11860.793" y="48464.891" />
+            <rect id="Sector_E_1_17" width="800" height="767.10193" x="12668.005" y="48464.891" />
+            <rect id="Sector_E_1_16" width="800" height="767.10193" x="13475.217" y="48464.891" />
+            <rect id="Sector_E_2_30" width="800" height="767.10175" x="2174.25" y="49231.992" />
+            <rect id="Sector_E_2_29" width="800" height="767.10181" x="2981.4619" y="49231.992" />
+            <rect id="Sector_E_2_28" width="800" height="767.10181" x="3788.6738" y="49231.992" />
+            <rect id="Sector_E_2_27" width="800" height="767.10193" x="4595.8857" y="49231.992" />
+            <rect id="Sector_E_2_26" width="800" height="767.10181" x="5403.0977" y="49231.992" />
+            <rect id="Sector_E_2_25" width="800" height="767.10193" x="6210.3096" y="49231.992" />
+            <rect id="Sector_E_2_24" width="800" height="767.10193" x="7017.5225" y="49231.992" />
+            <rect id="Sector_E_2_23" width="800" height="767.10205" x="7824.7344" y="49231.992" />
+            <rect id="Sector_E_2_22" width="800" height="767.10181" x="8631.9463" y="49231.992" />
+            <rect id="Sector_E_2_21" width="800" height="767.10193" x="9439.1582" y="49231.992" />
+            <rect id="Sector_E_2_20" width="800" height="767.10193" x="10246.37" y="49231.992" />
+            <rect id="Sector_E_2_19" width="800" height="767.10205" x="11053.583" y="49231.992" />
+            <rect id="Sector_E_2_18" width="800" height="767.10193" x="11860.794" y="49231.992" />
+            <rect id="Sector_E_2_17" width="800" height="767.10205" x="12668.007" y="49231.992" />
+            <rect id="Sector_E_2_16" width="800" height="767.10205" x="13475.22" y="49231.992" />
+            <rect id="Sector_E_3_30" width="800" height="767.10175" x="2174.2498" y="49999.094" />
+            <rect id="Sector_E_3_29" width="800" height="767.10181" x="2981.4619" y="49999.094" />
+            <rect id="Sector_E_3_28" width="800" height="767.10181" x="3788.6738" y="49999.094" />
+            <rect id="Sector_E_3_27" width="800" height="767.10193" x="4595.8857" y="49999.094" />
+            <rect id="Sector_E_3_26" width="800" height="767.10181" x="5403.0972" y="49999.094" />
+            <rect id="Sector_E_3_25" width="800" height="767.10193" x="6210.3096" y="49999.094" />
+            <rect id="Sector_E_3_24" width="800" height="767.10193" x="7017.5215" y="49999.094" />
+            <rect id="Sector_E_3_23" width="800" height="767.10205" x="7824.7334" y="49999.094" />
+            <rect id="Sector_E_3_22" width="800" height="767.10181" x="8631.9463" y="49999.094" />
+            <rect id="Sector_E_3_21" width="800" height="767.10193" x="9439.1582" y="49999.094" />
+            <rect id="Sector_E_3_20" width="800" height="767.10193" x="10246.37" y="49999.094" />
+            <rect id="Sector_E_3_19" width="800" height="767.10205" x="11053.582" y="49999.094" />
+            <rect id="Sector_E_3_18" width="800" height="767.10193" x="11860.794" y="49999.094" />
+            <rect id="Sector_E_3_17" width="800" height="767.10205" x="12668.006" y="49999.094" />
+            <rect id="Sector_E_3_16" width="800" height="767.10205" x="13475.219" y="49999.094" />
+            <rect id="Sector_E_4_30" width="800" height="767.10175" x="2174.2498" y="50766.195" />
+            <rect id="Sector_E_4_29" width="800" height="767.10181" x="2981.4617" y="50766.195" />
+            <rect id="Sector_E_4_28" width="800" height="767.10181" x="3788.6736" y="50766.195" />
+            <rect id="Sector_E_4_27" width="800" height="767.10193" x="4595.8853" y="50766.195" />
+            <rect id="Sector_E_4_26" width="800" height="767.10181" x="5403.0972" y="50766.195" />
+            <rect id="Sector_E_4_25" width="800" height="767.10193" x="6210.3091" y="50766.195" />
+            <rect id="Sector_E_4_24" width="800" height="767.10193" x="7017.522" y="50766.195" />
+            <rect id="Sector_E_4_23" width="800" height="767.10205" x="7824.7339" y="50766.195" />
+            <rect id="Sector_E_4_22" width="800" height="767.10181" x="8631.9463" y="50766.195" />
+            <rect id="Sector_E_4_21" width="800" height="767.10193" x="9439.1582" y="50766.195" />
+            <rect id="Sector_E_4_20" width="800" height="767.10193" x="10246.37" y="50766.195" />
+            <rect id="Sector_E_4_19" width="800" height="767.10205" x="11053.583" y="50766.195" />
+            <rect id="Sector_E_4_18" width="800" height="767.10193" x="11860.794" y="50766.195" />
+            <rect id="Sector_E_4_17" width="800" height="767.10205" x="12668.007" y="50766.195" />
+            <rect id="Sector_E_4_16" width="800" height="767.10205" x="13475.22" y="50766.195" />
+            <rect id="Sector_E_1_15" width="800" height="767.10175" x="16350.92" y="48469.898" />
+            <rect id="Sector_E_1_14" width="800" height="767.10181" x="17158.133" y="48469.898" />
+            <rect id="Sector_E_1_13" width="800" height="767.10181" x="17965.346" y="48469.898" />
+            <rect id="Sector_E_1_12" width="800" height="767.10193" x="18772.557" y="48469.898" />
+            <rect id="Sector_E_1_11" width="800" height="767.10181" x="19579.77" y="48469.898" />
+            <rect id="Sector_E_1_10" width="800" height="767.10193" x="20386.98" y="48469.898" />
+            <rect id="Sector_E_1_9" width="800" height="767.10193" x="21194.193" y="48469.898" />
+            <rect id="Sector_E_1_8" width="800" height="767.10205" x="22001.404" y="48469.898" />
+            <rect id="Sector_E_1_7" width="800" height="767.10181" x="22808.617" y="48469.898" />
+            <rect id="Sector_E_1_6" width="800" height="767.10193" x="23615.828" y="48469.898" />
+            <rect id="Sector_E_1_5" width="800" height="767.10193" x="24423.041" y="48469.898" />
+            <rect id="Sector_E_1_4" width="800" height="767.10205" x="25230.254" y="48469.898" />
+            <rect id="Sector_E_1_3" width="800" height="767.10193" x="26037.465" y="48469.898" />
+            <rect id="Sector_E_1_2" width="800" height="767.10205" x="26844.676" y="48469.898" />
+            <rect id="Sector_E_1_1" width="800" height="767.10205" x="27651.889" y="48469.898" />
+            <rect id="Sector_E_2_15" width="800" height="767.10181" x="16350.92" y="49237" />
+            <rect id="Sector_E_2_14" width="800" height="767.10193" x="17158.133" y="49237" />
+            <rect id="Sector_E_2_13" width="800" height="767.10193" x="17965.346" y="49237" />
+            <rect id="Sector_E_2_12" width="800" height="767.10205" x="18772.557" y="49237" />
+            <rect id="Sector_E_2_11" width="800" height="767.10193" x="19579.77" y="49237" />
+            <rect id="Sector_E_2_10" width="800" height="767.10205" x="20386.98" y="49237" />
+            <rect id="Sector_E_2_9" width="800" height="767.10205" x="21194.193" y="49237" />
+            <rect id="Sector_E_2_8" width="800" height="767.10211" x="22001.406" y="49237" />
+            <rect id="Sector_E_2_7" width="800" height="767.10193" x="22808.617" y="49237" />
+            <rect id="Sector_E_2_6" width="800" height="767.10205" x="23615.83" y="49237" />
+            <rect id="Sector_E_2_5" width="800" height="767.10205" x="24423.043" y="49237" />
+            <rect id="Sector_E_2_4" width="800" height="767.10211" x="25230.254" y="49237" />
+            <rect id="Sector_E_2_3" width="800" height="767.10205" x="26037.465" y="49237" />
+            <rect id="Sector_E_2_2" width="800" height="767.10211" x="26844.68" y="49237" />
+            <rect id="Sector_E_2_1" width="800" height="767.10211" x="27651.891" y="49237" />
+            <rect id="Sector_E_3_15" width="800" height="767.10181" x="16350.92" y="50004.102" />
+            <rect id="Sector_E_3_14" width="800" height="767.10193" x="17158.133" y="50004.102" />
+            <rect id="Sector_E_3_13" width="800" height="767.10193" x="17965.346" y="50004.102" />
+            <rect id="Sector_E_3_12" width="800" height="767.10205" x="18772.557" y="50004.102" />
+            <rect id="Sector_E_3_11" width="800" height="767.10193" x="19579.768" y="50004.102" />
+            <rect id="Sector_E_3_10" width="800" height="767.10205" x="20386.98" y="50004.102" />
+            <rect id="Sector_E_3_9" width="800" height="767.10205" x="21194.193" y="50004.102" />
+            <rect id="Sector_E_3_8" width="800" height="767.10211" x="22001.404" y="50004.102" />
+            <rect id="Sector_E_3_7" width="800" height="767.10193" x="22808.617" y="50004.102" />
+            <rect id="Sector_E_3_6" width="800" height="767.10205" x="23615.83" y="50004.102" />
+            <rect id="Sector_E_3_5" width="800" height="767.10205" x="24423.043" y="50004.102" />
+            <rect id="Sector_E_3_4" width="800" height="767.10211" x="25230.254" y="50004.102" />
+            <rect id="Sector_E_3_3" width="800" height="767.10205" x="26037.465" y="50004.102" />
+            <rect id="Sector_E_3_2" width="800" height="767.10211" x="26844.678" y="50004.102" />
+            <rect id="Sector_E_3_1" width="800" height="767.10211" x="27651.891" y="50004.102" />
+            <rect id="Sector_E_4_15" width="800" height="767.10181" x="16350.92" y="50771.203" />
+            <rect id="Sector_E_4_14" width="800" height="767.10193" x="17158.133" y="50771.203" />
+            <rect id="Sector_E_4_13" width="800" height="767.10193" x="17965.344" y="50771.203" />
+            <rect id="Sector_E_4_12" width="800" height="767.10205" x="18772.557" y="50771.203" />
+            <rect id="Sector_E_4_11" width="800" height="767.10193" x="19579.768" y="50771.203" />
+            <rect id="Sector_E_4_10" width="800" height="767.10205" x="20386.98" y="50771.203" />
+            <rect id="Sector_E_4_9" width="800" height="767.10205" x="21194.193" y="50771.203" />
+            <rect id="Sector_E_4_8" width="800" height="767.10211" x="22001.406" y="50771.203" />
+            <rect id="Sector_E_4_7" width="800" height="767.10193" x="22808.617" y="50771.203" />
+            <rect id="Sector_E_4_6" width="800" height="767.10205" x="23615.83" y="50771.203" />
+            <rect id="Sector_E_4_5" width="800" height="767.10205" x="24423.043" y="50771.203" />
+            <rect id="Sector_E_4_4" width="800" height="767.10211" x="25230.254" y="50771.203" />
+            <rect id="Sector_E_4_3" width="800" height="767.10205" x="26037.465" y="50771.203" />
+            <rect id="Sector_E_4_2" width="800" height="767.10211" x="26844.68" y="50771.203" />
+            <rect id="Sector_E_4_1" width="800" height="767.10211" x="27651.891" y="50771.203" />
+            <text x="2250" y="49000" class="places white" id="TextSector_E_1_30">30</text>
+            <text x="3050" y="49000" class="places white" id="TextSector_E_1_29">29</text>
+            <text x="3850" y="49000" class="places white" id="TextSector_E_1_28">28</text>
+            <text x="4650" y="49000" class="places white" id="TextSector_E_1_27">27</text>
+            <text x="5450" y="49000" class="places white" id="TextSector_E_1_26">26</text>
+            <text x="6250" y="49000" class="places white" id="TextSector_E_1_25">25</text>
+            <text x="7050" y="49000" class="places white" id="TextSector_E_1_24">24</text>
+            <text x="7850" y="49000" class="places white" id="TextSector_E_1_23">23</text>
+            <text x="8650" y="49000" class="places white" id="TextSector_E_1_22">22</text>
+            <text x="9450" y="49000" class="places white" id="TextSector_E_1_21">21</text>
+            <text x="10250" y="49000" class="places white" id="TextSector_E_1_20">20</text>
+            <text x="11050" y="49000" class="places white" id="TextSector_E_1_19">19</text>
+            <text x="11850" y="49000" class="places white" id="TextSector_E_1_18">18</text>
+            <text x="12650" y="49000" class="places white" id="TextSector_E_1_17">17</text>
+            <text x="13450" y="49000" class="places white" id="TextSector_E_1_16">16</text>
+            <text x="16400" y="49000" class="places white" id="TextSector_E_1_15">15</text>
+            <text x="17200" y="49000" class="places white" id="TextSector_E_1_14">14</text>
+            <text x="18000" y="49000" class="places white" id="TextSector_E_1_13">13</text>
+            <text x="18800" y="49000" class="places white" id="TextSector_E_1_12">12</text>
+            <text x="19600" y="49000" class="places white" id="TextSector_E_1_11">11</text>
+            <text x="20450" y="49000" class="places white" id="TextSector_E_1_10">10</text>
+            <text x="21500" y="49000" class="places white" id="TextSector_E_1_9">9</text>
+            <text x="22300" y="49000" class="places white" id="TextSector_E_1_8">8</text>
+            <text x="23100" y="49000" class="places white" id="TextSector_E_1_7">7</text>
+            <text x="23900" y="49000" class="places white" id="TextSector_E_1_6">6</text>
+            <text x="24700" y="49000" class="places white" id="TextSector_E_1_5">5</text>
+            <text x="25500" y="49000" class="places white" id="TextSector_E_1_4">4</text>
+            <text x="26300" y="49000" class="places white" id="TextSector_E_1_3">3</text>
+            <text x="27100" y="49000" class="places white" id="TextSector_E_1_2">2</text>
+            <text x="27900" y="49000" class="places white" id="TextSector_E_1_1">1</text>
+            <text x="2250" y="49800" class="places white" id="TextSector_E_2_30">30</text>
+            <text x="3050" y="49800" class="places white" id="TextSector_E_2_29">29</text>
+            <text x="3850" y="49800" class="places white" id="TextSector_E_2_28">28</text>
+            <text x="4650" y="49800" class="places white" id="TextSector_E_2_27">27</text>
+            <text x="5450" y="49800" class="places white" id="TextSector_E_2_26">26</text>
+            <text x="6250" y="49800" class="places white" id="TextSector_E_2_25">25</text>
+            <text x="7050" y="49800" class="places white" id="TextSector_E_2_24">24</text>
+            <text x="7850" y="49800" class="places white" id="TextSector_E_2_23">23</text>
+            <text x="8650" y="49800" class="places white" id="TextSector_E_2_22">22</text>
+            <text x="9450" y="49800" class="places white" id="TextSector_E_2_21">21</text>
+            <text x="10250" y="49800" class="places white" id="TextSector_E_2_20">20</text>
+            <text x="11050" y="49800" class="places white" id="TextSector_E_2_19">19</text>
+            <text x="11850" y="49800" class="places white" id="TextSector_E_2_18">18</text>
+            <text x="12650" y="49800" class="places white" id="TextSector_E_2_17">17</text>
+            <text x="13450" y="49800" class="places white" id="TextSector_E_2_16">16</text>
+            <text x="16400" y="49800" class="places white" id="TextSector_E_2_15">15</text>
+            <text x="17200" y="49800" class="places white" id="TextSector_E_2_14">14</text>
+            <text x="18000" y="49800" class="places white" id="TextSector_E_2_13">13</text>
+            <text x="18800" y="49800" class="places white" id="TextSector_E_2_12">12</text>
+            <text x="19600" y="49800" class="places white" id="TextSector_E_2_11">11</text>
+            <text x="20450" y="49800" class="places white" id="TextSector_E_2_10">10</text>
+            <text x="21500" y="49800" class="places white" id="TextSector_E_2_9">9</text>
+            <text x="22300" y="49800" class="places white" id="TextSector_E_2_8">8</text>
+            <text x="23100" y="49800" class="places white" id="TextSector_E_2_7">7</text>
+            <text x="23900" y="49800" class="places white" id="TextSector_E_2_6">6</text>
+            <text x="24700" y="49800" class="places white" id="TextSector_E_2_5">5</text>
+            <text x="25500" y="49800" class="places white" id="TextSector_E_2_4">4</text>
+            <text x="26300" y="49800" class="places white" id="TextSector_E_2_3">3</text>
+            <text x="27100" y="49800" class="places white" id="TextSector_E_2_2">2</text>
+            <text x="27900" y="49800" class="places white" id="TextSector_E_2_1">1</text>
+            <text x="2250" y="50600" class="places white" id="TextSector_E_3_30">30</text>
+            <text x="3050" y="50600" class="places white" id="TextSector_E_3_29">29</text>
+            <text x="3850" y="50600" class="places white" id="TextSector_E_3_28">28</text>
+            <text x="4650" y="50600" class="places white" id="TextSector_E_3_27">27</text>
+            <text x="5450" y="50600" class="places white" id="TextSector_E_3_26">26</text>
+            <text x="6250" y="50600" class="places white" id="TextSector_E_3_25">25</text>
+            <text x="7050" y="50600" class="places white" id="TextSector_E_3_24">24</text>
+            <text x="7850" y="50600" class="places white" id="TextSector_E_3_23">23</text>
+            <text x="8650" y="50600" class="places white" id="TextSector_E_3_22">22</text>
+            <text x="9450" y="50600" class="places white" id="TextSector_E_3_21">21</text>
+            <text x="10250" y="50600" class="places white" id="TextSector_E_3_20">20</text>
+            <text x="11050" y="50600" class="places white" id="TextSector_E_3_19">19</text>
+            <text x="11850" y="50600" class="places white" id="TextSector_E_3_18">18</text>
+            <text x="12650" y="50600" class="places white" id="TextSector_E_3_17">17</text>
+            <text x="13450" y="50600" class="places white" id="TextSector_E_3_16">16</text>
+            <text x="16400" y="50600" class="places white" id="TextSector_E_3_15">15</text>
+            <text x="17200" y="50600" class="places white" id="TextSector_E_3_14">14</text>
+            <text x="18000" y="50600" class="places white" id="TextSector_E_3_13">13</text>
+            <text x="18800" y="50600" class="places white" id="TextSector_E_3_12">12</text>
+            <text x="19600" y="50600" class="places white" id="TextSector_E_3_11">11</text>
+            <text x="20450" y="50600" class="places white" id="TextSector_E_3_10">10</text>
+            <text x="21500" y="50600" class="places white" id="TextSector_E_3_9">9</text>
+            <text x="22300" y="50600" class="places white" id="TextSector_E_3_8">8</text>
+            <text x="23100" y="50600" class="places white" id="TextSector_E_3_7">7</text>
+            <text x="23900" y="50600" class="places white" id="TextSector_E_3_6">6</text>
+            <text x="24700" y="50600" class="places white" id="TextSector_E_3_5">5</text>
+            <text x="25500" y="50600" class="places white" id="TextSector_E_3_4">4</text>
+            <text x="26300" y="50600" class="places white" id="TextSector_E_3_3">3</text>
+            <text x="27100" y="50600" class="places white" id="TextSector_E_3_2">2</text>
+            <text x="27900" y="50600" class="places white" id="TextSector_E_3_1">1</text>
+            <text x="2250" y="51400" class="places white" id="TextSector_E_4_30">30</text>
+            <text x="3050" y="51400" class="places white" id="TextSector_E_4_29">29</text>
+            <text x="3850" y="51400" class="places white" id="TextSector_E_4_28">28</text>
+            <text x="4650" y="51400" class="places white" id="TextSector_E_4_27">27</text>
+            <text x="5450" y="51400" class="places white" id="TextSector_E_4_26">26</text>
+            <text x="6250" y="51400" class="places white" id="TextSector_E_4_25">25</text>
+            <text x="7050" y="51400" class="places white" id="TextSector_E_4_24">24</text>
+            <text x="7850" y="51400" class="places white" id="TextSector_E_4_23">23</text>
+            <text x="8650" y="51400" class="places white" id="TextSector_E_4_22">22</text>
+            <text x="9450" y="51400" class="places white" id="TextSector_E_4_21">21</text>
+            <text x="10250" y="51400" class="places white" id="TextSector_E_4_20">20</text>
+            <text x="11050" y="51400" class="places white" id="TextSector_E_4_19">19</text>
+            <text x="11850" y="51400" class="places white" id="TextSector_E_4_18">18</text>
+            <text x="12650" y="51400" class="places white" id="TextSector_E_4_17">17</text>
+            <text x="13450" y="51400" class="places white" id="TextSector_E_4_16">16</text>
+            <text x="16400" y="51400" class="places white" id="TextSector_E_4_15">15</text>
+            <text x="17200" y="51400" class="places white" id="TextSector_E_4_14">14</text>
+            <text x="18000" y="51400" class="places white" id="TextSector_E_4_13">13</text>
+            <text x="18800" y="51400" class="places white" id="TextSector_E_4_12">12</text>
+            <text x="19600" y="51400" class="places white" id="TextSector_E_4_11">11</text>
+            <text x="20450" y="51400" class="places white" id="TextSector_E_4_10">10</text>
+            <text x="21500" y="51400" class="places white" id="TextSector_E_4_9">9</text>
+            <text x="22300" y="51400" class="places white" id="TextSector_E_4_8">8</text>
+            <text x="23100" y="51400" class="places white" id="TextSector_E_4_7">7</text>
+            <text x="23900" y="51400" class="places white" id="TextSector_E_4_6">6</text>
+            <text x="24700" y="51400" class="places white" id="TextSector_E_4_5">5</text>
+            <text x="25500" y="51400" class="places white" id="TextSector_E_4_4">4</text>
+            <text x="26300" y="51400" class="places white" id="TextSector_E_4_3">3</text>
+            <text x="27100" y="51400" class="places white" id="TextSector_E_4_2">2</text>
+            <text x="27900" y="51400" class="places white" id="TextSector_E_4_1">1</text>
+        </g>
+    </g>
+</svg>

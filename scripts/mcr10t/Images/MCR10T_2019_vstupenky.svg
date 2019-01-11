@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: CorelDRAW 2018 (64-Bit Evaluation Version) -->
+<svg
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+     xml:space="preserve" width="100%" viewBox="0 0 21000 29700" id="tableSvg" sodipodi:docname="MCR10T_2019_vstupenky.svg">
+    <style id="style2"> .tables {font-weight:normal;font-size:423px;font-family:'Arial';} .places {font-weight:normal;font-size:550px;font-family:'Arial';} .white {fill:white;} .green {fill:#b0cb1f;} .red {fill:#e31e24;} .orange{fill: #FF4500} .str2 {stroke:#2B2A29;stroke-width:35.28;stroke-miterlimit:22.9256} .str6 {stroke:#2b2a29;stroke-width:7.6;stroke-miterlimit:23}
+ .fil2 {fill:none}</style>
+    <g id="toplayer">
+        <g id="LED">
+            <path style="fill:#2b2a29;fill-rule:nonzero" id="path1907" d="m 7532.86,29630.57 v -862.88 h 35.36 v 862.88 l -17.68,3.7 z m 17.68,3.7 h -17.68 v -3.7 z m 6164.66,0 H 7550.54 v -7.4 h 6164.66 l 17.68,3.7 z m 17.68,-3.7 v 3.7 h -17.68 z m 0,-862.88 v 862.88 h -35.36 v -862.88 l 17.68,-3.7 z m -17.68,-3.7 h 17.68 v 3.7 z m -6164.66,0 h 6164.66 v 7.4 H 7550.54 l -17.68,-3.7 z m -17.68,3.7 v -3.7 h 17.68 z" class="fil0" />
+        </g>
+        <g id="PARKET">
+            <path style="fill:#2b2a29;fill-rule:nonzero"  id="path1911" d="M 5419.79,27113.07 V 10987.69 h 42.44 v 16125.38 l -21.22,28.48 z m 21.22,28.48 h -21.22 v -28.48 z m 10020.9,0 H 5441.01 v -56.96 h 10020.9 l 21.22,28.48 z m 21.22,-28.48 v 28.48 h -21.22 z m 0,-16125.38 v 16125.38 h -42.44 V 10987.69 l 21.22,-28.48 z m -21.22,-28.48 h 21.22 v 28.48 z m -10020.9,0 h 10020.9 v 56.96 H 5441.01 l -21.22,-28.48 z m -21.22,28.48 v -28.48 h 21.22 z" class="fil0" />
+        </g>
+        <g id="SAL">
+            <path style="fill:#2b2a29;fill-rule:nonzero" id="path1915" d="M 17537.75,29692.18 V 2840.23 h 34.46 v 26851.95 l -17.23,18.41 z m 34.46,0 v 18.41 h -17.23 z M 3241,29673.77 h 14313.98 v 36.82 H 3241 l -17.23,-18.41 z m 0,36.82 h -17.23 v -18.41 z m 17.23,-26870.36 v 26851.95 h -34.46 V 2840.23 l 17.23,-18.41 z m -34.46,0 v -18.41 H 3241 Z m 14331.21,18.41 H 3241 v -36.82 h 14313.98 l 17.23,18.41 z m 0,-36.82 h 17.23 v 18.41 z" class="fil0" />
+        </g>
+        <text style="font-weight:normal;font-size:801.5px;font-family:Arial;fill:#2b2a29;stroke:#2b2a29;stroke-width:76;stroke-miterlimit:23" id="text1919" class="fil1 str1 fnt0" y="29508.529" x="8129.4902">LED SCREEN</text>
+        <rect id="rect1921" height="1951.23" width="2730.54" y="2871.6001" x="11559.77" class="fil2 str2" />
+        <g id="g1925" transform="matrix(0.779625,0,0,1.01689,3613.98,-11012)">
+            <text style="font-weight:normal;font-size:1361.85998535px;font-family:'Arial Unicode MS';fill:#2b2a29;stroke:#2b2a29;stroke-width:76;stroke-miterlimit:23" id="text1923" class="fil1 str2 fnt1" y="14850" x="10500">BAR</text>
+        </g>
+        <rect id="rect2157" height="26779.369" width="1577.61" y="2912.8" x="18750.25" class="fil2 str2" />
+        <rect id="rect2159" height="26782.859" width="1577.61" y="2909.3201" x="455.39001" class="fil2 str2" />
+        <g id="g2163" transform="rotate(-89.49408,12138.628,6926.5056)">
+            <text style="font-weight:normal;font-size:800.78997803px;font-family:Arial;fill:#2b2a29;stroke:#2b2a29;stroke-width:76;stroke-miterlimit:23" id="text2161" class="fil1 str2 fnt2" y="14850" x="10500">ochoz 1 vchod</text>
+        </g>
+        <g id="g2167" transform="rotate(-89.49408,1486.1592,14599.006)">
+            <text style="font-weight:normal;font-size:626.33001709px;font-family:Arial;fill:#2b2a29;stroke:#2b2a29;stroke-width:76;stroke-miterlimit:23" id="text2165" class="fil1 str2 fnt3" y="14850" x="10500">ochoz 2</text>
+        </g>
+        <rect style="fill:#ebecec;sstroke:#2b2a29;stroke-width:76;stroke-miterlimit:23" id="rect2169" height="966.06" width="1016.9" y="10002.21" x="17733.949" class="fil3 str2" />
+        <rect style="fill:#ebecec;stroke:#2b2a29;stroke-width:76;stroke-miterlimit:23" id="rect2171" height="966.06" width="1016.9" y="9998.6602" x="2077.71" class="fil3 str2" />
+        <rect style="fill:#ebecec;stroke:#2b2a29;stroke-width:76;stroke-miterlimit:23" id="rect2173" height="864.37" width="1045.61" y="19725.66" x="2044.66" class="fil3 str2" />
+        <rect style="fill:#ebecec;stroke:#2b2a29;stroke-width:76;stroke-miterlimit:23" id="rect2175" height="864.37" width="915.21002" y="10029.39" x="2123.51" class="fil3 str2" />
+        <rect style="fill:#ebecec;stroke:#2b2a29;stroke-width:76;stroke-miterlimit:23" id="rect2177" height="864.37" width="1040.4301" y="19726.949" x="17668.869" class="fil3 str2" />
+        <rect style="fill:#ebecec;stroke:#2b2a29;stroke-width:76;stroke-miterlimit:23" id="rect2179" height="946.34003" width="1002" y="10038.37" x="17763.83" class="fil3 str2" />
+        <rect id="rect2181" height="2782.1399" width="20980.381" y="9.0500002" x="8.5500002" class="fil2 str2" />
+        <rect id="rect2183" height="793.52002" width="63.950001" y="19766.01" x="2062.6299" class="fil2 str6" />
+        <rect id="rect2185" height="793.52002" width="63.950001" y="10065.33" x="2132.6599" class="fil2 str6" />
+        <rect id="rect2187" height="793.52002" width="63.950001" y="19764.461" x="17815.5" class="fil2 str6" />
+        <rect id="rect2189" height="793.52002" width="63.950001" y="19759.32" x="2870.8701" class="fil2 str6" />
+        <rect id="rect2191" height="868.77002" width="70.010002" y="10066.06" x="17863.289" class="fil2 str6" />
+        <rect id="rect2193" height="801.34003" width="70.010002" y="10060.05" x="2873.8799" class="fil2 str6" />
+        <rect id="rect2195" height="793.52002" width="63.950001" y="19761.971" x="2149.73" class="fil2 str6" />
+        <rect id="rect2197" height="793.52002" width="63.950001" y="10067.91" x="2215.3501" class="fil2 str6" />
+        <rect id="rect2199" height="793.52002" width="63.950001" y="19762.641" x="17976.779" class="fil2 str6" />
+        <rect id="rect2201" height="868.77002" width="70.010002" y="10075.5" x="17953.82" class="fil2 str6" />
+        <rect id="rect2203" height="793.52002" width="63.950001" y="19764.551" x="2232.4099" class="fil2 str6" />
+        <rect id="rect2205" height="793.52002" width="63.950001" y="10070.49" x="2298.03" class="fil2 str6" />
+        <rect id="rect2207" height="793.52002" width="63.950001" y="19761.42" x="17893.65" class="fil2 str6" />
+        <rect id="rect2209" height="868.77002" width="70.010002" y="10070.12" x="17793.27" class="fil2 str6" />
+        <rect id="rect2211" height="793.52002" width="63.950001" y="19760.51" x="2317.29" class="fil2 str6" />
+        <rect id="rect2213" height="793.52002" width="63.950001" y="10073.07" x="2380.72" class="fil2 str6" />
+        <rect id="rect2215" height="793.52002" width="63.950001" y="19762.91" x="18054.59" class="fil2 str6" />
+        <rect id="rect2217" height="868.77002" width="70.010002" y="10066.34" x="18045.43" class="fil2 str6" />
+        <rect id="rect2219" height="793.52002" width="63.950001" y="19760.891" x="2397.78" class="fil2 str6" />
+        <rect id="rect2221" height="793.52002" width="63.950001" y="10075.64" x="2463.3999" class="fil2 str6" />
+        <rect id="rect2223" height="793.52002" width="63.950001" y="19762.18" x="18133.971" class="fil2 str6" />
+        <rect id="rect2225" height="868.77002" width="70.010002" y="10069.15" x="18135.949" class="fil2 str6" />
+        <rect id="rect2227" height="793.52002" width="63.950001" y="19763.471" x="2480.46" class="fil2 str6" />
+        <rect id="rect2229" height="793.52002" width="63.950001" y="10064.81" x="2549.1399" class="fil2 str6" />
+        <rect id="rect2231" height="793.52002" width="63.950001" y="19759.24" x="18215.551" class="fil2 str6" />
+        <rect id="rect2233" height="868.77002" width="70.010002" y="10071.97" x="18226.48" class="fil2 str6" />
+        <rect id="rect2235" height="793.52002" width="63.950001" y="19761.631" x="2571.96" class="fil2 str6" />
+        <rect id="rect2237" height="793.52002" width="63.950001" y="10071.99" x="2628.77" class="fil2 str6" />
+        <rect id="rect2239" height="793.52002" width="63.950001" y="19759.609" x="18299.34" class="fil2 str6" />
+        <rect id="rect2241" height="868.77002" width="70.010002" y="10068.19" x="18317" class="fil2 str6" />
+        <rect id="rect2243" height="793.52002" width="63.950001" y="19764.221" x="2664.55" class="fil2 str6" />
+        <rect id="rect2245" height="793.52002" width="63.950001" y="10061.34" x="2711.45" class="fil2 str6" />
+        <rect id="rect2247" height="793.52002" width="63.950001" y="19761.08" x="18382.029" class="fil2 str6" />
+        <rect id="rect2249" height="868.77002" width="70.010002" y="10071.01" x="18407.529" class="fil2 str6" />
+        <rect id="rect2251" height="793.52002" width="63.950001" y="19762.391" x="2761.5701" class="fil2 str6" />
+        <rect id="rect2253" height="793.52002" width="63.950001" y="10063.92" x="2798.54" class="fil2 str6" />
+        <rect id="rect2255" height="793.52002" width="63.950001" y="19762.57" x="18466.92" class="fil2 str6" />
+        <rect id="rect2257" height="868.77002" width="70.010002" y="10073.83" x="18498.051" class="fil2 str6" />
+        <rect id="rect2259" height="793.52002" width="63.950001" y="19766.24" x="18542.98" class="fil2 str6" />
+        <rect id="rect2261" height="868.77002" width="70.010002" y="10070.05" x="18588.58" class="fil2 str6" />
+        <rect id="rect2263" height="793.52002" width="63.950001" y="10067.64" x="2951.6101" class="fil2 str6" />
+        <rect id="rect2265" height="793.52002" width="63.950001" y="19768.83" x="18616.85" class="fil2 str6" />
+        <rect id="rect2267" height="868.77002" width="70.010002" y="10061.22" x="18679.1" class="fil2 str6" />
+        <rect y="11613.4" x="-4822.8398" id="rect2269" height="2616.95" width="536.58002" transform="rotate(-90)" class="fil2 str6" />
+        <g id="g2273">
+            <line id="line2271" y2="2807.1699" x2="20986.971" y1="2833.0701" x1="9.2799997" class="fil2 str7" />
+        </g>
+        <text style="font-weight:normal;font-size:818.25px;font-family:Arial;fill:#2b2a29;stroke:#2b2a29;stroke-width:76;stroke-miterlimit:23" id="text2275" class="fil1 str2 fnt4" y="1629.8101" x="6778.5601">Zázemí pro sportovce</text>
+        <g id="g2279">
+            <path style="fill:#2b2a29;fill-rule:nonzero"  id="path2277" d="M 20980.14,29692.18 V 9.05 h 17.56 v 29683.13 l -8.78,7.15 z m 17.56,0 v 7.15 h -8.78 z M 8.52,29685.03 h 20980.4 v 14.3 H 8.52 l -8.78,-7.15 z m 0,14.3 h -8.78 v -7.15 z M 17.3,9.05 V 29692.18 H -0.26 V 9.05 L 8.52,1.9 Z m -17.56,0 V 1.9 H 8.52 Z M 20988.92,16.2 H 8.52 V 1.9 h 20980.4 l 8.78,7.15 z m 0,-14.3 h 8.78 v 7.15 z" class="fil0" />
+        </g>
+        <text style="font-weight:normal;font-size:801.5px;font-family:Arial;fill:#2b2a29;stroke:#2b2a29;stroke-width:76;stroke-miterlimit:23" id="text2281" class="fil1 str10 fnt5" y="18177.699" x="8646.3701">TANEČNÍ</text>
+        <text style="font-weight:normal;font-size:801.5px;font-family:Arial;fill:#2b2a29;stroke:#2b2a29;stroke-width:76;stroke-miterlimit:23" id="text2283" class="fil1 str10 fnt5" y="19073.1" x="8801.9297">PARKET</text>
+        <text style="font-weight:normal;font-size:801.5px;font-family:Arial;fill:#2b2a29;stroke:#2b2a29;stroke-width:76;stroke-miterlimit:23" id="text2285" class="fil1 str10 fnt5" y="19968.5" x="8615.8496">20 x 13 m</text>
+        <g id="g2387">
+            <path style="fill:#2b2a29;fill-rule:nonzero"  id="path2385" d="m 5646.4,27282.77 v -138.5 h 52.9 v 138.5 l -26.45,0.58 z m 26.45,0.58 h -26.45 v -0.58 z m 9525.01,0 H 5672.85 v -1.16 h 9525.01 l 26.45,0.58 z m 26.45,-0.58 v 0.58 h -26.45 z m 0,-138.5 v 138.5 h -52.9 v -138.5 l 26.45,-0.58 z m -26.45,-0.58 h 26.45 v 0.58 z m -9525.01,0 h 9525.01 v 1.16 H 5672.85 l -26.45,-0.58 z m -26.45,0.58 v -0.58 h 26.45 z" class="fil0" />
+        </g>
+        <g id="g2391">
+            <path style="fill:#2b2a29;fill-rule:nonzero"  id="path2389" d="m 5633.19,27679.45 v -370.02 h 52.9 v 370.02 l -26.45,1.56 z m 26.45,1.56 h -26.45 v -1.56 z m 9525.01,0 H 5659.64 v -3.12 h 9525.01 l 26.45,1.56 z m 26.45,-1.56 v 1.56 h -26.45 z m 0,-370.02 v 370.02 h -52.9 v -370.02 l 26.45,-1.56 z m -26.45,-1.56 h 26.45 v 1.56 z m -9525.01,0 h 9525.01 v 3.12 H 5659.64 l -26.45,-1.56 z m -26.45,1.56 v -1.56 h 26.45 z" class="fil0" />
+        </g>
+        <rect style="stroke:#2b2a29;stroke-width:16.2443924;stroke-miterlimit:23" y="-6012.4399" x="-28035.699" id="rect2393" height="305.22702" width="305.22702" transform="matrix(0,-1,-1,0,0,0)" class="fil2 str2" />
+        <rect style="stroke:#2b2a29;stroke-width:16.2443924;stroke-miterlimit:23" y="-6829.23" x="-28040.1" id="rect2395" height="305.22702" width="305.22702" transform="matrix(0,-1,-1,0,0,0)" class="fil2 str2" />
+        <rect style="stroke:#2b2a29;stroke-width:16.2443924;stroke-miterlimit:23" y="-7596.3701" x="-28045.1" id="rect2397" height="305.22702" width="305.22702" transform="matrix(0,-1,-1,0,0,0)" class="fil2 str2" />
+        <rect style="stroke:#2b2a29;stroke-width:16.2443924;stroke-miterlimit:23" y="-8400.2002" x="-28045.1" id="rect2399" height="305.22702" width="305.22702" transform="matrix(0,-1,-1,0,0,0)" class="fil2 str2" />
+        <rect style="stroke:#2b2a29;stroke-width:16.2443924;stroke-miterlimit:23" y="-9321.1104" x="-28046.699" id="rect2401" height="305.22702" width="305.22702" transform="matrix(0,-1,-1,0,0,0)" class="fil2 str2" />
+        <rect style="stroke:#2b2a29;stroke-width:16.2443924;stroke-miterlimit:23" y="-10175.8" x="-28045.1" id="rect2403" height="305.22702" width="305.22702" transform="matrix(0,-1,-1,0,0,0)" class="fil2 str2" />
+        <rect style="stroke:#2b2a29;stroke-width:16.2443924;stroke-miterlimit:23" y="-11016.3" x="-28041.801" id="rect2405" height="305.22702" width="305.22702" transform="matrix(0,-1,-1,0,0,0)" class="fil2 str2" />
+        <rect style="stroke:#2b2a29;stroke-width:16.2443924;stroke-miterlimit:23" y="-11850.9" x="-28043.5" id="rect2407" height="305.22702" width="305.22702" transform="matrix(0,-1,-1,0,0,0)" class="fil2 str2" />
+        <rect style="stroke:#2b2a29;stroke-width:16.2443924;stroke-miterlimit:23" y="-12620.3" x="-28051.699" id="rect2409" height="305.22702" width="305.22702" transform="matrix(0,-1,-1,0,0,0)" class="fil2 str2" />
+        <rect style="stroke:#2b2a29;stroke-width:16.2443924;stroke-miterlimit:23" y="-13464.3" x="-28046.801" id="rect2411" height="305.22702" width="305.22702" transform="matrix(0,-1,-1,0,0,0)" class="fil2 str2" />
+        <rect style="stroke:#2b2a29;stroke-width:16.2443924;stroke-miterlimit:23" y="-14278.4" x="-28043.4" id="rect2413" height="305.22702" width="305.22702" transform="matrix(0,-1,-1,0,0,0)" class="fil2 str2" />
+        <rect style="stroke:#2b2a29;stroke-width:16.2443924;stroke-miterlimit:23" y="-15056.3" x="-28043.5" id="rect2415" height="305.22702" width="305.22702" transform="matrix(0,-1,-1,0,0,0)" class="fil2 str2" />
+    </g>
+    <g id="tables">
+        <g id="T1" >
+            <rect transform="rotate(-90)" width="610.45001" height="1226.66" id="Table_1" x="-26752.6" y="4189.2798"  />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_1_1" x="-26086.5" y="-5293.8599" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_1_2" x="-26097.801" y="-4657.96" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_1_3" x="-26331" y="-4115.2598" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_1_4" x="-26823.301" y="-4109.6401" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_1_5" x="-27124.9" y="-4622.98" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_1_6" x="-27126" y="-5291.2402" />
+            <text x="4701.0098" y="26599.539" class="tables white" id="text2319">1</text>
+        </g>
+        <g id="T2">
+            <rect transform="rotate(-90)" width="610.45001" height="1226.66" id="Table_2" x="-24481.4" y="4163.4302" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_2_1" x="-23806.5" y="-5241.5498" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_2_2" x="-23809" y="-4640.9302" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_2_3" x="-24059.9" y="-4093.8201" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_2_5" x="-24844.9" y="-4645.6401" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_2_6" x="-24850.4" y="-5260.98" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_2_4" x="-24552.199" y="-4092.6101" />
+            <text x="4664.2998" y="24328.4" class="tables white" id="text2313">2</text>
+        </g>
+        <g id="T3">
+            <rect transform="rotate(-90)" width="610.45001" height="1226.66" id="Table_3" x="-22589.699" y="4171.9502" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_3_1" x="-21910.4" y="-5254.48" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_3_2" x="-21917.199" y="-4640.6299" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_3_3" x="-22185.801" y="-4115.5698" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_3_5" x="-22944.301" y="-4605.6499" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_3_6" x="-22949.801" y="-5260.6802" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_3_4" x="-22638.4" y="-4105.54" />
+            <text x="4668.23" y="22434.08" class="tables white" id="text2309">3</text>
+        </g>
+        <g id="T4">
+            <rect transform="rotate(-90)" width="610.45001" height="1226.66" id="Table_4" x="-20606.199" y="4166.1401" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_4_1" x="-19926.9" y="-5248.6699" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_4_2" x="-19933.801" y="-4634.8198" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_4_3" x="-20202.301" y="-4109.7598" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_4_5" x="-20960.9" y="-4599.8398" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_4_6" x="-20966.4" y="-5254.8701" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_4_4" x="-20654.9" y="-4099.73" />
+            <text x="4669.3999" y="20452.561" class="tables white" id="text2351">4</text>
+        </g>
+        <g id="T5">
+            <rect transform="rotate(-90)" width="610.45001" height="1226.66" id="Table_5" x="-18116.199" y="4191.6802" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_5_1" x="-17436.9" y="-5274.21" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_5_2" x="-17443.699" y="-4660.3599" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_5_3" x="-17712.301" y="-4135.2998" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_5_5" x="-18470.801" y="-4625.3799" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_5_6" x="-18476.301" y="-5280.4102" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_5_4" x="-18164.9" y="-4125.27" />
+            <text x="4686.8999" y="17958.039" class="tables white" id="text2335">5</text>
+        </g>
+        <g id="T6">
+            <rect transform="rotate(-90)" width="610.45001" height="1226.66" id="Table_6" x="-16063.6" y="4216.4902" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_6_1" x="-15401.9" y="-5299.02" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_6_2" x="-15404.3" y="-4680.7598" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_6_3" x="-15655.3" y="-4160.1099" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_6_5" x="-16435.9" y="-4685.4702" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_6_6" x="-16437" y="-5318.4502" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_6_4" x="-16160.8" y="-4167.7202" />
+            <text x="4713.6099" y="15908" class="tables white" id="text2305">6</text>
+        </g>
+        <g id="T7">
+            <rect transform="rotate(-90)" width="610.45001" height="1226.66" id="Table_7" x="-14070.1" y="4189.8799" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_7_1" x="-13404.9" y="-5311.0698" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_7_2" x="-13397.6" y="-4632.1099" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_7_3" x="-13630.9" y="-4115.8599" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_7_5" x="-14429.2" y="-4638.8101" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_7_6" x="-14428.1" y="-5316.1001" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_7_4" x="-14145.2" y="-4119.0698" />
+            <text x="4685.3101" y="13914.49" class="tables white" id="text2301">7</text>
+        </g>
+        <g id="T8">
+            <rect y="4176.6602" x="-12059.2" id="Table_8" height="1226.66" width="610.45001" transform="rotate(-90)" />
+            <rect y="-5281.2402" x="-11397.6" id="Chair_8_1" height="305.22702" width="305.22702" transform="matrix(0,-1,-1,0,0,0)" />
+            <rect y="-4645.3398" x="-11404.4" id="Chair_8_2" height="305.22702" width="305.22702" transform="matrix(0,-1,-1,0,0,0)" />
+            <rect y="-4116.25" x="-11616.5" id="Chair_8_3" height="305.22702" width="305.22702" transform="matrix(0,-1,-1,0,0,0)" />
+            <rect y="-4654.9399" x="-12427.3" id="Chair_8_5" height="305.22702" width="305.22702" transform="matrix(0,-1,-1,0,0,0)" />
+            <rect y="-5287.1899" x="-12415.3" id="Chair_8_6" height="305.22702" width="305.22702" transform="matrix(0,-1,-1,0,0,0)" />
+            <rect y="-4115.04" x="-12152.9" id="Chair_8_4" height="305.22702" width="305.22702" transform="matrix(0,-1,-1,0,0,0)" />
+            <text id="text8913" class="tables white" y="11903.65" x="4672.9399">8</text>
+        </g>
+        <g id="T9">
+            <rect transform="rotate(-90)" width="610.45001" height="1226.66" id="Table_9" x="-26727.1" y="15496.1" />
+            <rect transform="rotate(-90)" width="305.22702" height="305.22702" id="Chair_9_1" x="-26065.4" y="15640.2" />
+            <rect transform="rotate(-90)" width="305.22702" height="305.22702" id="Chair_9_2" x="-26072.199" y="16254.1" />
+            <rect transform="rotate(-90)" width="305.22702" height="305.22702" id="Chair_9_3" x="-26336.4" y="16801.199" />
+            <rect transform="rotate(-90)" width="305.22702" height="305.22702" id="Chair_9_5" x="-27087.4" y="16262.6" />
+            <rect transform="rotate(-90)" width="305.22702" height="305.22702" id="Chair_9_6" x="-27092.9" y="15647.2" />
+            <rect transform="rotate(-90)" width="305.22702" height="305.22702" id="Chair_9_4" x="-26828.199" y="16796.1" />
+            <text x="15992.15" y="26571.49" class="tables white" id="text2383">9</text>
+        </g>
+        <g id="T10">
+            <rect transform="rotate(-90)" width="610.45001" height="1226.66" id="Table_10" x="-24669.9" y="15512.6" />
+            <rect transform="rotate(-90)" width="305.22702" height="305.22702" id="Chair_10_1" x="-24008.301" y="15656.7" />
+            <rect transform="rotate(-90)" width="305.22702" height="305.22702" id="Chair_10_2" x="-24015.1" y="16270.6" />
+            <rect transform="rotate(-90)" width="305.22702" height="305.22702" id="Chair_10_3" x="-24279.301" y="16817.699" />
+            <rect transform="rotate(-90)" width="305.22702" height="305.22702" id="Chair_10_5" x="-25030.301" y="16279.1" />
+            <rect transform="rotate(-90)" width="305.22702" height="305.22702" id="Chair_10_6" x="-25035.801" y="15663.8" />
+            <rect transform="rotate(-90)" width="305.22702" height="305.22702" id="Chair_10_4" x="-24771.1" y="16812.6" />
+            <text x="15927.32" y="24516.881" class="tables white" id="text2367">10</text>
+        </g>
+        <g id="T11">
+            <rect transform="rotate(-90)" width="610.45001" height="1226.66" id="Table_11" x="-22589.5" y="15499.1" />
+            <rect transform="rotate(-90)" width="305.22702" height="305.22702" id="Chair_11_1" x="-21927.9" y="15643.2" />
+            <rect transform="rotate(-90)" width="305.22702" height="305.22702" id="Chair_11_2" x="-21934.699" y="16257" />
+            <rect transform="rotate(-90)" width="305.22702" height="305.22702" id="Chair_11_3" x="-22198.9" y="16804.1" />
+            <rect transform="rotate(-90)" width="305.22702" height="305.22702" id="Chair_11_5" x="-22949.9" y="16265.6" />
+            <rect transform="rotate(-90)" width="305.22702" height="305.22702" id="Chair_11_6" x="-22955.4" y="15650.2" />
+            <rect transform="rotate(-90)" width="305.22702" height="305.22702" id="Chair_11_4" x="-22690.699" y="16799" />
+            <text x="15913.77" y="22436.48" class="tables white" id="text2317">11</text>
+        </g>
+        <g id="T12">
+            <rect transform="rotate(-90)" width="610.45001" height="1226.66" id="Table_12" x="-20724.4" y="15497.3" />
+            <rect transform="rotate(-90)" width="305.22702" height="305.22702" id="Chair_12_1" x="-20036.199" y="15641.4" />
+            <rect transform="rotate(-90)" width="305.22702" height="305.22702" id="Chair_12_2" x="-20043.1" y="16255.3" />
+            <rect transform="rotate(-90)" width="305.22702" height="305.22702" id="Chair_12_3" x="-20324.9" y="16784.801" />
+            <rect transform="rotate(-90)" width="305.22702" height="305.22702" id="Chair_12_5" x="-21092.301" y="16255" />
+            <rect transform="rotate(-90)" width="305.22702" height="305.22702" id="Chair_12_6" x="-21097.801" y="15626.4" />
+            <rect transform="rotate(-90)" width="305.22702" height="305.22702" id="Chair_12_4" x="-20799.5" y="16777.199" />
+            <text x="15898.8" y="20568.949" class="tables white" id="text2295">12</text>
+        </g>
+        <g id="T13">
+            <rect transform="rotate(-90)" width="610.45001" height="1226.66" id="Table_13" x="-18247.5" y="15502.5" />
+            <rect transform="rotate(-90)" width="305.22702" height="305.22702" id="Chair_13_1" x="-17581.4" y="15651.1" />
+            <rect transform="rotate(-90)" width="305.22702" height="305.22702" id="Chair_13_2" x="-17588.301" y="16264.9" />
+            <rect transform="rotate(-90)" width="305.22702" height="305.22702" id="Chair_13_3" x="-17839.199" y="16794.4" />
+            <rect transform="rotate(-90)" width="305.22702" height="305.22702" id="Chair_13_5" x="-18615.4" y="16264.6" />
+            <rect transform="rotate(-90)" width="305.22702" height="305.22702" id="Chair_13_6" x="-18616.9" y="15680" />
+            <rect transform="rotate(-90)" width="305.22702" height="305.22702" id="Chair_13_4" x="-18353.5" y="16800" />
+            <text x="15908.44" y="18081.24" class="tables white" id="text2293">13</text>
+        </g>
+        <g id="T14">
+            <rect transform="rotate(-90)" width="610.45001" height="1226.66" id="Table_14" x="-16033.6" y="15503.2" />
+            <rect transform="rotate(-90)" width="305.22702" height="305.22702" id="Chair_14_1" x="-15372" y="15647.3" />
+            <rect transform="rotate(-90)" width="305.22702" height="305.22702" id="Chair_14_2" x="-15378.8" y="16261.1" />
+            <rect transform="rotate(-90)" width="305.22702" height="305.22702" id="Chair_14_3" x="-15585.6" y="16768.6" />
+            <rect transform="rotate(-90)" width="305.22702" height="305.22702" id="Chair_14_5" x="-16406" y="16296.1" />
+            <rect transform="rotate(-90)" width="305.22702" height="305.22702" id="Chair_14_6" x="-16402.6" y="15680.8" />
+            <rect transform="rotate(-90)" width="305.22702" height="305.22702" id="Chair_14_4" x="-16104.4" y="16774.199" />
+            <text x="15867.53" y="15878.05" class="tables white" id="text2289">14</text>
+        </g>
+        <g id="T15">
+            <rect transform="rotate(-90)" width="610.45001" height="1226.66" id="Table_15" x="-14218.9" y="15509.4" />
+            <rect transform="rotate(-90)" width="305.22702" height="305.22702" id="Chair_15_1" x="-13557.2" y="15653.5" />
+            <rect transform="rotate(-90)" width="305.22702" height="305.22702" id="Chair_15_2" x="-13557.4" y="16285" />
+            <rect transform="rotate(-90)" width="305.22702" height="305.22702" id="Chair_15_3" x="-13828.2" y="16781.4" />
+            <rect transform="rotate(-90)" width="305.22702" height="305.22702" id="Chair_15_5" x="-14584.6" y="16295.7" />
+            <rect transform="rotate(-90)" width="305.22702" height="305.22702" id="Chair_15_6" x="-14587.9" y="15636.3" />
+            <rect transform="rotate(-90)" width="305.22702" height="305.22702" id="Chair_15_4" x="-14309.5" y="16784.801" />
+            <text x="15928.48" y="14079.06" class="tables white" id="text2287">15</text>
+        </g>
+        <g id="T16">
+            <rect transform="rotate(-90)" width="610.45001" height="1226.66" id="Table_16" x="-12092.3" y="15505.3" />
+            <rect transform="rotate(-90)" width="305.22702" height="305.22702" id="Chair_16_1" x="-11430.6" y="15649.5" />
+            <rect transform="rotate(-90)" width="305.22702" height="305.22702" id="Chair_16_2" x="-11437.4" y="16263.3" />
+            <rect transform="rotate(-90)" width="305.22702" height="305.22702" id="Chair_16_3" x="-11649.6" y="16761.5" />
+            <rect transform="rotate(-90)" width="305.22702" height="305.22702" id="Chair_16_5" x="-12433.9" y="16262.5" />
+            <rect transform="rotate(-90)" width="305.22702" height="305.22702" id="Chair_16_6" x="-12426.3" y="15647.9" />
+            <rect transform="rotate(-90)" width="305.22702" height="305.22702" id="Chair_16_4" x="-12168.3" y="16767.199" />
+            <text x="15871.54" y="11952.46" class="tables white" id="text2291">16</text>
+        </g>
+        <g id="T17">
+            <rect x="13870.62" y="9179.2402" width="305.23001" height="305.23001" id="Chair_17_3" />
+            <rect x="13865.98" y="8575.4404" width="305.23001" height="305.23001" id="Chair_17_4" />
+            <rect x="13645.4" y="8091.1401" width="305.23001" height="305.23001" id="Chair_17_5" />
+            <rect x="12841.99" y="8579.3604" width="305.23001" height="305.23001" id="Chair_17_7" />
+            <rect x="12840.78" y="9185.1602" width="305.23001" height="305.23001" id="Chair_17_8" />
+            <rect x="13151.37" y="8087.2002" width="305.23001" height="305.23001" id="Chair_17_6" />
+            <rect x="13205.49" y="8517.0996" width="610.45001" height="2420.9399" id="Table_17" />
+            <rect x="13863.85" y="10488.23" width="305.23001" height="305.23001" id="Chair_17_1" />
+            <rect x="13865.83" y="9899.5303" width="305.23001" height="305.23001" id="Chair_17_2" />
+            <rect x="12851.77" y="9896.2305" width="305.23001" height="305.23001" id="Chair_17_9" />
+            <rect x="12834.01" y="10461.78" width="305.23001" height="305.23001" id="Chair_17_10" />
+            <text x="13260.96" y="9838.8301" class="tables white" id="text2523">17</text>
+        </g>
+        <g id="T18">
+            <rect x="12241.86" y="9183.7197" width="305.23001" height="305.23001" id="Chair_18_3" />
+            <rect x="12237.22" y="8579.9199" width="305.23001" height="305.23001" id="Chair_18_4" />
+            <rect x="12016.64" y="8095.6201" width="305.23001" height="305.23001" id="Chair_18_5" />
+            <rect x="11213.23" y="8583.8398" width="305.23001" height="305.23001" id="Chair_18_7" />
+            <rect x="11212.02" y="9189.6396" width="305.23001" height="305.23001" id="Chair_18_8" />
+            <rect x="11522.61" y="8091.6802" width="305.23001" height="305.23001" id="Chair_18_6" />
+            <rect x="11576.73" y="8521.5801" width="610.45001" height="2420.9399" id="Table_18" />
+            <rect x="12235.09" y="10492.71" width="305.23001" height="305.23001" id="Chair_18_1" />
+            <rect x="12237.07" y="9904.0098" width="305.23001" height="305.23001" id="Chair_18_2" />
+            <rect x="11223.01" y="9900.71" width="305.23001" height="305.23001" id="Chair_18_9" />
+            <rect x="11205.25" y="10466.26" width="305.23001" height="305.23001" id="Chair_18_10" />
+            <text x="11632.2" y="9843.3096" class="tables white" id="text2499">18</text>
+        </g>
+        <g id="T19">
+            <rect x="10632.6" y="9185.8604" width="305.23001" height="305.23001" id="Chair_19_3" />
+            <rect x="10627.96" y="8582.0596" width="305.23001" height="305.23001" id="Chair_19_4" />
+            <rect x="10407.38" y="8097.7598" width="305.23001" height="305.23001" id="Chair_19_5" />
+            <rect x="9603.9697" y="8585.9805" width="305.23001" height="305.23001" id="Chair_19_7" />
+            <rect x="9602.7598" y="9191.7803" width="305.23001" height="305.23001" id="Chair_19_8" />
+            <rect x="9913.3496" y="8093.8198" width="305.23001" height="305.23001" id="Chair_19_6" />
+            <rect x="9967.4697" y="8523.7197" width="610.45001" height="2420.9399" id="Table_19" />
+            <rect x="10625.83" y="10494.85" width="305.23001" height="305.23001" id="Chair_19_1" />
+            <rect x="10627.81" y="9906.1504" width="305.23001" height="305.23001" id="Chair_19_2" />
+            <rect x="9613.75" y="9902.8496" width="305.23001" height="305.23001" id="Chair_19_9" />
+            <rect x="9595.9902" y="10468.4" width="305.23001" height="305.23001" id="Chair_19_10" />
+            <text x="10022.94" y="9845.4502" class="tables white" id="text2475">19</text>
+        </g>
+        <g id="T20">
+            <rect x="9071.5596" y="9185.8496" width="305.23001" height="305.23001" id="Chair_20_3" />
+            <rect x="9066.9199" y="8582.0498" width="305.23001" height="305.23001" id="Chair_20_4" />
+            <rect x="8846.3398" y="8097.75" width="305.23001" height="305.23001" id="Chair_20_5" />
+            <rect x="8042.9302" y="8585.9697" width="305.23001" height="305.23001" id="Chair_20_7" />
+            <rect x="8041.7202" y="9191.7695" width="305.23001" height="305.23001" id="Chair_20_8" />
+            <rect x="8352.3096" y="8093.8101" width="305.23001" height="305.23001" id="Chair_20_6" />
+            <rect x="8406.4297" y="8523.71" width="610.45001" height="2420.9399" id="Table_20" />
+            <rect x="9064.79" y="10494.84" width="305.23001" height="305.23001" id="Chair_20_1" />
+            <rect x="9066.7695" y="9906.1396" width="305.23001" height="305.23001" id="Chair_20_2" />
+            <rect x="8052.71" y="9902.8398" width="305.23001" height="305.23001" id="Chair_20_9" />
+            <rect x="8034.9502" y="10468.39" width="305.23001" height="305.23001" id="Chair_20_10" />
+            <text x="8478.4297" y="9848.75" class="tables white" id="text2451">20</text>
+        </g>
+        <g id="T21">
+            <rect x="7507.3799" y="9179.2402" width="305.23001" height="305.23001" id="Chair_21_3" />
+            <rect x="7502.7402" y="8575.4404" width="305.23001" height="305.23001" id="Chair_21_4" />
+            <rect x="7282.1602" y="8091.1401" width="305.23001" height="305.23001" id="Chair_21_5" />
+            <rect x="6478.75" y="8579.3604" width="305.23001" height="305.23001" id="Chair_21_7" />
+            <rect x="6477.54" y="9185.1602" width="305.23001" height="305.23001" id="Chair_21_8" />
+            <rect x="6788.1299" y="8087.2002" width="305.23001" height="305.23001" id="Chair_21_6" />
+            <rect x="6842.25" y="8517.0996" width="610.45001" height="2420.9399" id="Table_21" />
+            <rect x="7500.6099" y="10488.23" width="305.23001" height="305.23001" id="Chair_21_1" />
+            <rect x="7502.5898" y="9899.5303" width="305.23001" height="305.23001" id="Chair_21_2" />
+            <rect x="6488.5298" y="9896.2305" width="305.23001" height="305.23001" id="Chair_21_9" />
+            <rect x="6470.77" y="10461.78" width="305.23001" height="305.23001" id="Chair_21_10" />
+            <text x="6947.3301" y="9852.0498" class="tables white" id="text2427">21</text>
+        </g>
+        <g id="T22">
+            <rect transform="rotate(-90)" width="610.45001" height="650.21997" id="Table_22" x="-11836.3" y="1347.38" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_22_1" x="-11172.6" y="-1820.46" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_22_2" x="-11420.1" y="-1295.79" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_22_4" x="-12199.9" y="-1808.01" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_22_3" x="-11912.3" y="-1290.17" />
+            <text x="1422.6899" y="11680.71" class="tables white" id="text2299">22</text>
+        </g>
+        <g id="T23">
+            <rect transform="rotate(-90)" width="610.45001" height="650.21997" id="Table_23" x="-13436.9" y="1348.67" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_23_1" x="-12782.1" y="-1875.54" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_23_2" x="-12994.2" y="-1266.21" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_23_4" x="-13786.6" y="-1859.47" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_23_3" x="-13513" y="-1260.59" />
+            <text x="1421.16" y="13293.8" class="tables white" id="text2303">23</text>
+        </g>
+        <g id="T24">
+            <rect transform="rotate(-90)" width="610.45001" height="650.21997" id="Table_24" x="-15232.3" y="1351.6801" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_24_1" x="-14570.3" y="-1841.51" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_24_2" x="-14801" y="-1293.14" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_24_4" x="-15589.8" y="-1844.66" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_24_3" x="-15354.1" y="-1284.5601" />
+            <text x="1420.9" y="15086.03" class="tables white" id="text2307">24</text>
+        </g>
+        <g id="T25">
+            <rect transform="rotate(-90)" width="610.45001" height="650.21997" id="Table_25" x="-17288.1" y="1340.9399" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_25_1" x="-16632.1" y="-1844.89" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_25_2" x="-16899.5" y="-1288.24" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_25_4" x="-17647.301" y="-1843.47" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_25_3" x="-17352.5" y="-1284.27" />
+            <text x="1415.63" y="17136.67" class="tables white" id="text2311">25</text>
+        </g>
+        <g id="T26">
+            <rect transform="rotate(-90)" width="610.45001" height="650.21997" id="Table_26" x="-18986.5" y="1343.72" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_26_1" x="-18311.801" y="-1848.77" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_26_2" x="-18592.801" y="-1267.87" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_26_4" x="-19345.699" y="-1853.46" />
+            <rect transform="matrix(0,-1,-1,0,0,0)" width="305.22702" height="305.22702" id="Chair_26_3" x="-19074.6" y="-1264.76" />
+            <text x="1442.05" y="18829.51" class="tables white" id="text2315">26</text>
+        </g>
+    </g>
+    <g id="freeSectors" fill="#b0cb1f">
+        <g id="SectorB">
+            <rect id="STB" width="987.09998" height="8577.6602" x="2098.3899" y="11071.109" />
+            <polyline id="polyline3127" points="2098.39,19648.77 2098.39,19305.67 2098.39,18962.56 2098.39,18619.45 2098.39,18276.34 2098.39,17933.23 2098.39,17590.14 2098.39,17247.02 2098.39,16903.92 2098.39,16560.81 2098.39,16217.71 2098.39,15874.59 2098.39,15531.49 2098.39,15188.38 2098.39,14845.26 2098.39,14502.16 2098.39,14159.06 2098.39,13815.96 2098.39,13472.84 2098.39,13129.74 2098.39,12786.63 2098.39,12443.53 2098.39,12100.41 2098.39,11757.31 2098.39,11414.2 2098.39,11071.11 " style="stroke:#000000;stroke-width:10" />
+            <polyline points="2345.15,19648.77 2345.15,19305.67 2345.15,18962.56 2345.15,18619.45 2345.15,18276.34 2345.15,17933.23 2345.15,17590.14 2345.15,17247.02 2345.15,16903.92 2345.15,16560.81 2345.15,16217.71 2345.15,15874.59 2345.15,15531.49 2345.15,15188.38 2345.15,14845.26 2345.15,14502.16 2345.15,14159.06 2345.15,13815.96 2345.15,13472.84 2345.15,13129.74 2345.15,12786.63 2345.15,12443.53 2345.15,12100.41 2345.15,11757.31 2345.15,11414.2 2345.15,11071.11 " style="stroke:#000000;stroke-width:10" id="1" />
+            <polyline points="2591.93,19648.77 2591.93,19305.67 2591.93,18962.56 2591.93,18619.45 2591.93,18276.34 2591.93,17933.23 2591.93,17590.14 2591.93,17247.02 2591.93,16903.92 2591.93,16560.81 2591.93,16217.71 2591.93,15874.59 2591.93,15531.49 2591.93,15188.38 2591.93,14845.26 2591.93,14502.16 2591.93,14159.06 2591.93,13815.96 2591.93,13472.84 2591.93,13129.74 2591.93,12786.63 2591.93,12443.53 2591.93,12100.41 2591.93,11757.31 2591.93,11414.2 2591.93,11071.11 " style="stroke:#000000;stroke-width:10" id="2" />
+            <polyline points="2838.71,19648.77 2838.71,19305.67 2838.71,18962.56 2838.71,18619.45 2838.71,18276.34 2838.71,17933.23 2838.71,17590.14 2838.71,17247.02 2838.71,16903.92 2838.71,16560.81 2838.71,16217.71 2838.71,15874.59 2838.71,15531.49 2838.71,15188.38 2838.71,14845.26 2838.71,14502.16 2838.71,14159.06 2838.71,13815.96 2838.71,13472.84 2838.71,13129.74 2838.71,12786.63 2838.71,12443.53 2838.71,12100.41 2838.71,11757.31 2838.71,11414.2 2838.71,11071.11 " style="stroke:#000000;stroke-width:10" id="3" />
+            <polyline points="3085.49,19648.77 3085.49,19305.67 3085.49,18962.56 3085.49,18619.45 3085.49,18276.34 3085.49,17933.23 3085.49,17590.14 3085.49,17247.02 3085.49,16903.92 3085.49,16560.81 3085.49,16217.71 3085.49,15874.59 3085.49,15531.49 3085.49,15188.38 3085.49,14845.26 3085.49,14502.16 3085.49,14159.06 3085.49,13815.96 3085.49,13472.84 3085.49,13129.74 3085.49,12786.63 3085.49,12443.53 3085.49,12100.41 3085.49,11757.31 3085.49,11414.2 3085.49,11071.11 " style="stroke:#000000;stroke-width:10" id="4" />
+            <polyline points="2098.39,19648.77 2345.15,19648.77 2591.93,19648.77 2838.71,19648.77 3085.49,19648.77 " style="stroke:#000000;stroke-width:10" id="5" />
+            <polyline points="2098.39,19305.67 2345.15,19305.67 2591.93,19305.67 2838.71,19305.67 3085.49,19305.67 " style="stroke:#000000;stroke-width:10" id="6" />
+            <polyline points="2098.39,18962.56 2345.15,18962.56 2591.93,18962.56 2838.71,18962.56 3085.49,18962.56 " style="stroke:#000000;stroke-width:10" id="7" />
+            <polyline points="2098.39,18619.45 2345.15,18619.45 2591.93,18619.45 2838.71,18619.45 3085.49,18619.45 " style="stroke:#000000;stroke-width:10" id="8" />
+            <polyline points="2098.39,18276.34 2345.15,18276.34 2591.93,18276.34 2838.71,18276.34 3085.49,18276.34 " style="stroke:#000000;stroke-width:10" id="9" />
+            <polyline points="2098.39,17933.23 2345.15,17933.23 2591.93,17933.23 2838.71,17933.23 3085.49,17933.23 " style="stroke:#000000;stroke-width:10" id="10" />
+            <polyline points="2098.39,17590.14 2345.15,17590.14 2591.93,17590.14 2838.71,17590.14 3085.49,17590.14 " style="stroke:#000000;stroke-width:10" id="11" />
+            <polyline points="2098.39,17247.02 2345.15,17247.02 2591.93,17247.02 2838.71,17247.02 3085.49,17247.02 " style="stroke:#000000;stroke-width:10" id="12" />
+            <polyline points="2098.39,16903.92 2345.15,16903.92 2591.93,16903.92 2838.71,16903.92 3085.49,16903.92 " style="stroke:#000000;stroke-width:10" id="13" />
+            <polyline points="2098.39,16560.81 2345.15,16560.81 2591.93,16560.81 2838.71,16560.81 3085.49,16560.81 " style="stroke:#000000;stroke-width:10" id="14" />
+            <polyline points="2098.39,16217.71 2345.15,16217.71 2591.93,16217.71 2838.71,16217.71 3085.49,16217.71 " style="stroke:#000000;stroke-width:10" id="15" />
+            <polyline points="2098.39,15874.59 2345.15,15874.59 2591.93,15874.59 2838.71,15874.59 3085.49,15874.59 " style="stroke:#000000;stroke-width:10" id="16" />
+            <polyline points="2098.39,15531.49 2345.15,15531.49 2591.93,15531.49 2838.71,15531.49 3085.49,15531.49 " style="stroke:#000000;stroke-width:10" id="17" />
+            <polyline points="2098.39,15188.38 2345.15,15188.38 2591.93,15188.38 2838.71,15188.38 3085.49,15188.38 " style="stroke:#000000;stroke-width:10" id="18" />
+            <polyline points="2098.39,14845.26 2345.15,14845.26 2591.93,14845.26 2838.71,14845.26 3085.49,14845.26 " style="stroke:#000000;stroke-width:10" id="19" />
+            <polyline points="2098.39,14502.16 2345.15,14502.16 2591.93,14502.16 2838.71,14502.16 3085.49,14502.16 " style="stroke:#000000;stroke-width:10" id="20" />
+            <polyline points="2098.39,14159.06 2345.15,14159.06 2591.93,14159.06 2838.71,14159.06 3085.49,14159.06 " style="stroke:#000000;stroke-width:10" id="21" />
+            <polyline points="2098.39,13815.96 2345.15,13815.96 2591.93,13815.96 2838.71,13815.96 3085.49,13815.96 " style="stroke:#000000;stroke-width:10" id="22" />
+            <polyline points="2098.39,13472.84 2345.15,13472.84 2591.93,13472.84 2838.71,13472.84 3085.49,13472.84 " style="stroke:#000000;stroke-width:10" id="23" />
+            <polyline points="2098.39,13129.74 2345.15,13129.74 2591.93,13129.74 2838.71,13129.74 3085.49,13129.74 " style="stroke:#000000;stroke-width:10" id="24" />
+            <polyline points="2098.39,12786.63 2345.15,12786.63 2591.93,12786.63 2838.71,12786.63 3085.49,12786.63 " style="stroke:#000000;stroke-width:10" id="25" />
+            <polyline points="2098.39,12443.53 2345.15,12443.53 2591.93,12443.53 2838.71,12443.53 3085.49,12443.53 " style="stroke:#000000;stroke-width:10" id="26" />
+            <polyline points="2098.39,12100.41 2345.15,12100.41 2591.93,12100.41 2838.71,12100.41 3085.49,12100.41 " style="stroke:#000000;stroke-width:10" id="27" />
+            <polyline points="2098.39,11757.31 2345.15,11757.31 2591.93,11757.31 2838.71,11757.31 3085.49,11757.31 " style="stroke:#000000;stroke-width:10" id="28" />
+            <polyline points="2098.39,11414.2 2345.15,11414.2 2591.93,11414.2 2838.71,11414.2 3085.49,11414.2 " style="stroke:#000000;stroke-width:10" id="29" />
+            <polyline points="2098.39,11071.11 2345.15,11071.11 2591.93,11071.11 2838.71,11071.11 3085.49,11071.11 " style="stroke:#000000;stroke-width:10" id="30" />
+        </g>
+        <g id="Sector_E">
+            <rect id="STE" width="987.09998" height="8577.6602" x="17714.5" y="11063.4" />
+            <polyline id="polyline3765" points="17714.5,19641.06 17714.5,19297.96 17714.5,18954.85 17714.5,18611.74 17714.5,18268.63 17714.5,17925.52 17714.5,17582.43 17714.5,17239.31 17714.5,16896.21 17714.5,16553.1 17714.5,16210 17714.5,15866.88 17714.5,15523.78 17714.5,15180.67 17714.5,14837.55 17714.5,14494.45 17714.5,14151.35 17714.5,13808.25 17714.5,13465.13 17714.5,13122.03 17714.5,12778.92 17714.5,12435.82 17714.5,12092.7 17714.5,11749.6 17714.5,11406.49 17714.5,11063.4 " style="stroke:#000000;stroke-width:10" />
+            <polyline points="17961.26,19641.06 17961.26,19297.96 17961.26,18954.85 17961.26,18611.74 17961.26,18268.63 17961.26,17925.52 17961.26,17582.43 17961.26,17239.31 17961.26,16896.21 17961.26,16553.1 17961.26,16210 17961.26,15866.88 17961.26,15523.78 17961.26,15180.67 17961.26,14837.55 17961.26,14494.45 17961.26,14151.35 17961.26,13808.25 17961.26,13465.13 17961.26,13122.03 17961.26,12778.92 17961.26,12435.82 17961.26,12092.7 17961.26,11749.6 17961.26,11406.49 17961.26,11063.4 " style="stroke:#000000;stroke-width:10" id="polyline3767" />
+            <polyline points="18208.04,19641.06 18208.04,19297.96 18208.04,18954.85 18208.04,18611.74 18208.04,18268.63 18208.04,17925.52 18208.04,17582.43 18208.04,17239.31 18208.04,16896.21 18208.04,16553.1 18208.04,16210 18208.04,15866.88 18208.04,15523.78 18208.04,15180.67 18208.04,14837.55 18208.04,14494.45 18208.04,14151.35 18208.04,13808.25 18208.04,13465.13 18208.04,13122.03 18208.04,12778.92 18208.04,12435.82 18208.04,12092.7 18208.04,11749.6 18208.04,11406.49 18208.04,11063.4 " style="stroke:#000000;stroke-width:10" id="polyline3769" />
+            <polyline points="18454.82,19641.06 18454.82,19297.96 18454.82,18954.85 18454.82,18611.74 18454.82,18268.63 18454.82,17925.52 18454.82,17582.43 18454.82,17239.31 18454.82,16896.21 18454.82,16553.1 18454.82,16210 18454.82,15866.88 18454.82,15523.78 18454.82,15180.67 18454.82,14837.55 18454.82,14494.45 18454.82,14151.35 18454.82,13808.25 18454.82,13465.13 18454.82,13122.03 18454.82,12778.92 18454.82,12435.82 18454.82,12092.7 18454.82,11749.6 18454.82,11406.49 18454.82,11063.4 " style="stroke:#000000;stroke-width:10" id="polyline3771" />
+            <polyline points="18701.6,19641.06 18701.6,19297.96 18701.6,18954.85 18701.6,18611.74 18701.6,18268.63 18701.6,17925.52 18701.6,17582.43 18701.6,17239.31 18701.6,16896.21 18701.6,16553.1 18701.6,16210 18701.6,15866.88 18701.6,15523.78 18701.6,15180.67 18701.6,14837.55 18701.6,14494.45 18701.6,14151.35 18701.6,13808.25 18701.6,13465.13 18701.6,13122.03 18701.6,12778.92 18701.6,12435.82 18701.6,12092.7 18701.6,11749.6 18701.6,11406.49 18701.6,11063.4 " style="stroke:#000000;stroke-width:10" id="polyline3773" />
+            <polyline points="17714.5,19641.06 17961.26,19641.06 18208.04,19641.06 18454.82,19641.06 18701.6,19641.06 " style="stroke:#000000;stroke-width:10" id="polyline3775" />
+            <polyline points="17714.5,19297.96 17961.26,19297.96 18208.04,19297.96 18454.82,19297.96 18701.6,19297.96 " style="stroke:#000000;stroke-width:10" id="polyline3777" />
+            <polyline points="17714.5,18954.85 17961.26,18954.85 18208.04,18954.85 18454.82,18954.85 18701.6,18954.85 " style="stroke:#000000;stroke-width:10" id="polyline3779" />
+            <polyline points="17714.5,18611.74 17961.26,18611.74 18208.04,18611.74 18454.82,18611.74 18701.6,18611.74 " style="stroke:#000000;stroke-width:10" id="polyline3781" />
+            <polyline points="17714.5,18268.63 17961.26,18268.63 18208.04,18268.63 18454.82,18268.63 18701.6,18268.63 " style="stroke:#000000;stroke-width:10" id="polyline3783" />
+            <polyline points="17714.5,17925.52 17961.26,17925.52 18208.04,17925.52 18454.82,17925.52 18701.6,17925.52 " style="stroke:#000000;stroke-width:10" id="polyline3785" />
+            <polyline points="17714.5,17582.43 17961.26,17582.43 18208.04,17582.43 18454.82,17582.43 18701.6,17582.43 " style="stroke:#000000;stroke-width:10" id="polyline3787" />
+            <polyline points="17714.5,17239.31 17961.26,17239.31 18208.04,17239.31 18454.82,17239.31 18701.6,17239.31 " style="stroke:#000000;stroke-width:10" id="polyline3789" />
+            <polyline points="17714.5,16896.21 17961.26,16896.21 18208.04,16896.21 18454.82,16896.21 18701.6,16896.21 " style="stroke:#000000;stroke-width:10" id="polyline3791" />
+            <polyline points="17714.5,16553.1 17961.26,16553.1 18208.04,16553.1 18454.82,16553.1 18701.6,16553.1 " style="stroke:#000000;stroke-width:10" id="polyline3793" />
+            <polyline points="17714.5,16210 17961.26,16210 18208.04,16210 18454.82,16210 18701.6,16210 " style="stroke:#000000;stroke-width:10" id="polyline3795" />
+            <polyline points="17714.5,15866.88 17961.26,15866.88 18208.04,15866.88 18454.82,15866.88 18701.6,15866.88 " style="stroke:#000000;stroke-width:10" id="polyline3797" />
+            <polyline points="17714.5,15523.78 17961.26,15523.78 18208.04,15523.78 18454.82,15523.78 18701.6,15523.78 " style="stroke:#000000;stroke-width:10" id="polyline3799" />
+            <polyline points="17714.5,15180.67 17961.26,15180.67 18208.04,15180.67 18454.82,15180.67 18701.6,15180.67 " style="stroke:#000000;stroke-width:10" id="polyline3801" />
+            <polyline points="17714.5,14837.55 17961.26,14837.55 18208.04,14837.55 18454.82,14837.55 18701.6,14837.55 " style="stroke:#000000;stroke-width:10" id="polyline3803" />
+            <polyline points="17714.5,14494.45 17961.26,14494.45 18208.04,14494.45 18454.82,14494.45 18701.6,14494.45 " style="stroke:#000000;stroke-width:10" id="polyline3805" />
+            <polyline points="17714.5,14151.35 17961.26,14151.35 18208.04,14151.35 18454.82,14151.35 18701.6,14151.35 " style="stroke:#000000;stroke-width:10" id="polyline3807" />
+            <polyline points="17714.5,13808.25 17961.26,13808.25 18208.04,13808.25 18454.82,13808.25 18701.6,13808.25 " style="stroke:#000000;stroke-width:10" id="polyline3809" />
+            <polyline points="17714.5,13465.13 17961.26,13465.13 18208.04,13465.13 18454.82,13465.13 18701.6,13465.13 " style="stroke:#000000;stroke-width:10" id="polyline3811" />
+            <polyline points="17714.5,13122.03 17961.26,13122.03 18208.04,13122.03 18454.82,13122.03 18701.6,13122.03 " style="stroke:#000000;stroke-width:10" id="polyline3813" />
+            <polyline points="17714.5,12778.92 17961.26,12778.92 18208.04,12778.92 18454.82,12778.92 18701.6,12778.92 " style="stroke:#000000;stroke-width:10" id="polyline3815" />
+            <polyline points="17714.5,12435.82 17961.26,12435.82 18208.04,12435.82 18454.82,12435.82 18701.6,12435.82 " style="stroke:#000000;stroke-width:10" id="polyline3817" />
+            <polyline points="17714.5,12092.7 17961.26,12092.7 18208.04,12092.7 18454.82,12092.7 18701.6,12092.7 " style="stroke:#000000;stroke-width:10" id="polyline3819" />
+            <polyline points="17714.5,11749.6 17961.26,11749.6 18208.04,11749.6 18454.82,11749.6 18701.6,11749.6 " style="stroke:#000000;stroke-width:10" id="polyline3821" />
+            <polyline points="17714.5,11406.49 17961.26,11406.49 18208.04,11406.49 18454.82,11406.49 18701.6,11406.49 " style="stroke:#000000;stroke-width:10" id="polyline3823" />
+            <polyline points="17714.5,11063.4 17961.26,11063.4 18208.04,11063.4 18454.82,11063.4 18701.6,11063.4 " style="stroke:#000000;stroke-width:10" id="polyline3825" />
+        </g>
+        <g id="Sector_C">
+            <rect id="STC" width="987.09998" height="6950.3203" x="2118.4099" y="2921.7" />
+            <polyline id="polyline4433" points="2118.41,9872.02 2118.41,9594.01 2118.41,9316 2118.41,9037.98 2118.41,8759.96 2118.41,8481.95 2118.41,8203.95 2118.41,7925.92 2118.41,7647.91 2118.41,7369.9 2118.41,7091.89 2118.41,6813.87 2118.41,6535.86 2118.41,6257.84 2118.41,5979.82 2118.41,5701.81 2118.41,5423.8 2118.41,5145.79 2118.41,4867.77 2118.41,4589.76 2118.41,4311.74 2118.41,4033.73 2118.41,3755.71 2118.41,3477.7 2118.41,3199.69 2118.41,2921.7 " style="stroke:#000000;stroke-width:10" />
+            <polyline points="2365.17,9872.02 2365.17,9594.01 2365.17,9316 2365.17,9037.98 2365.17,8759.96 2365.17,8481.95 2365.17,8203.95 2365.17,7925.92 2365.17,7647.91 2365.17,7369.9 2365.17,7091.89 2365.17,6813.87 2365.17,6535.86 2365.17,6257.84 2365.17,5979.82 2365.17,5701.81 2365.17,5423.8 2365.17,5145.79 2365.17,4867.77 2365.17,4589.76 2365.17,4311.74 2365.17,4033.73 2365.17,3755.71 2365.17,3477.7 2365.17,3199.69 2365.17,2921.7 " style="stroke:#000000;stroke-width:10" id="polyline4435" />
+            <polyline points="2611.95,9872.02 2611.95,9594.01 2611.95,9316 2611.95,9037.98 2611.95,8759.96 2611.95,8481.95 2611.95,8203.95 2611.95,7925.92 2611.95,7647.91 2611.95,7369.9 2611.95,7091.89 2611.95,6813.87 2611.95,6535.86 2611.95,6257.84 2611.95,5979.82 2611.95,5701.81 2611.95,5423.8 2611.95,5145.79 2611.95,4867.77 2611.95,4589.76 2611.95,4311.74 2611.95,4033.73 2611.95,3755.71 2611.95,3477.7 2611.95,3199.69 2611.95,2921.7 " style="stroke:#000000;stroke-width:10" id="polyline4437" />
+            <polyline points="2858.73,9872.02 2858.73,9594.01 2858.73,9316 2858.73,9037.98 2858.73,8759.96 2858.73,8481.95 2858.73,8203.95 2858.73,7925.92 2858.73,7647.91 2858.73,7369.9 2858.73,7091.89 2858.73,6813.87 2858.73,6535.86 2858.73,6257.84 2858.73,5979.82 2858.73,5701.81 2858.73,5423.8 2858.73,5145.79 2858.73,4867.77 2858.73,4589.76 2858.73,4311.74 2858.73,4033.73 2858.73,3755.71 2858.73,3477.7 2858.73,3199.69 2858.73,2921.7 " style="stroke:#000000;stroke-width:10" id="polyline4439" />
+            <polyline points="3105.51,9872.02 3105.51,9594.01 3105.51,9316 3105.51,9037.98 3105.51,8759.96 3105.51,8481.95 3105.51,8203.95 3105.51,7925.92 3105.51,7647.91 3105.51,7369.9 3105.51,7091.89 3105.51,6813.87 3105.51,6535.86 3105.51,6257.84 3105.51,5979.82 3105.51,5701.81 3105.51,5423.8 3105.51,5145.79 3105.51,4867.77 3105.51,4589.76 3105.51,4311.74 3105.51,4033.73 3105.51,3755.71 3105.51,3477.7 3105.51,3199.69 3105.51,2921.7 " style="stroke:#000000;stroke-width:10" id="polyline4441" />
+            <polyline points="2118.41,9872.02 2365.17,9872.02 2611.95,9872.02 2858.73,9872.02 3105.51,9872.02 " style="stroke:#000000;stroke-width:10" id="polyline4443" />
+            <polyline points="2118.41,9594.01 2365.17,9594.01 2611.95,9594.01 2858.73,9594.01 3105.51,9594.01 " style="stroke:#000000;stroke-width:10" id="polyline4445" />
+            <polyline points="2118.41,9316 2365.17,9316 2611.95,9316 2858.73,9316 3105.51,9316 " style="stroke:#000000;stroke-width:10" id="polyline4447" />
+            <polyline points="2118.41,9037.98 2365.17,9037.98 2611.95,9037.98 2858.73,9037.98 3105.51,9037.98 " style="stroke:#000000;stroke-width:10" id="polyline4449" />
+            <polyline points="2118.41,8759.96 2365.17,8759.96 2611.95,8759.96 2858.73,8759.96 3105.51,8759.96 " style="stroke:#000000;stroke-width:10" id="polyline4451" />
+            <polyline points="2118.41,8481.95 2365.17,8481.95 2611.95,8481.95 2858.73,8481.95 3105.51,8481.95 " style="stroke:#000000;stroke-width:10" id="polyline4453" />
+            <polyline points="2118.41,8203.95 2365.17,8203.95 2611.95,8203.95 2858.73,8203.95 3105.51,8203.95 " style="stroke:#000000;stroke-width:10" id="polyline4455" />
+            <polyline points="2118.41,7925.92 2365.17,7925.92 2611.95,7925.92 2858.73,7925.92 3105.51,7925.92 " style="stroke:#000000;stroke-width:10" id="polyline4457" />
+            <polyline points="2118.41,7647.91 2365.17,7647.91 2611.95,7647.91 2858.73,7647.91 3105.51,7647.91 " style="stroke:#000000;stroke-width:10" id="polyline4459" />
+            <polyline points="2118.41,7369.9 2365.17,7369.9 2611.95,7369.9 2858.73,7369.9 3105.51,7369.9 " style="stroke:#000000;stroke-width:10" id="polyline4461" />
+            <polyline points="2118.41,7091.89 2365.17,7091.89 2611.95,7091.89 2858.73,7091.89 3105.51,7091.89 " style="stroke:#000000;stroke-width:10" id="polyline4463" />
+            <polyline points="2118.41,6813.87 2365.17,6813.87 2611.95,6813.87 2858.73,6813.87 3105.51,6813.87 " style="stroke:#000000;stroke-width:10" id="polyline4465" />
+            <polyline points="2118.41,6535.86 2365.17,6535.86 2611.95,6535.86 2858.73,6535.86 3105.51,6535.86 " style="stroke:#000000;stroke-width:10" id="polyline4467" />
+            <polyline points="2118.41,6257.84 2365.17,6257.84 2611.95,6257.84 2858.73,6257.84 3105.51,6257.84 " style="stroke:#000000;stroke-width:10" id="polyline4469" />
+            <polyline points="2118.41,5979.82 2365.17,5979.82 2611.95,5979.82 2858.73,5979.82 3105.51,5979.82 " style="stroke:#000000;stroke-width:10" id="polyline4471" />
+            <polyline points="2118.41,5701.81 2365.17,5701.81 2611.95,5701.81 2858.73,5701.81 3105.51,5701.81 " style="stroke:#000000;stroke-width:10" id="polyline4473" />
+            <polyline points="2118.41,5423.8 2365.17,5423.8 2611.95,5423.8 2858.73,5423.8 3105.51,5423.8 " style="stroke:#000000;stroke-width:10" id="polyline4475" />
+            <polyline points="2118.41,5145.79 2365.17,5145.79 2611.95,5145.79 2858.73,5145.79 3105.51,5145.79 " style="stroke:#000000;stroke-width:10" id="polyline4477" />
+            <polyline points="2118.41,4867.77 2365.17,4867.77 2611.95,4867.77 2858.73,4867.77 3105.51,4867.77 " style="stroke:#000000;stroke-width:10" id="polyline4479" />
+            <polyline points="2118.41,4589.76 2365.17,4589.76 2611.95,4589.76 2858.73,4589.76 3105.51,4589.76 " style="stroke:#000000;stroke-width:10" id="polyline4481" />
+            <polyline points="2118.41,4311.74 2365.17,4311.74 2611.95,4311.74 2858.73,4311.74 3105.51,4311.74 " style="stroke:#000000;stroke-width:10" id="polyline4483" />
+            <polyline points="2118.41,4033.73 2365.17,4033.73 2611.95,4033.73 2858.73,4033.73 3105.51,4033.73 " style="stroke:#000000;stroke-width:10" id="polyline4485" />
+            <polyline points="2118.41,3755.71 2365.17,3755.71 2611.95,3755.71 2858.73,3755.71 3105.51,3755.71 " style="stroke:#000000;stroke-width:10" id="polyline4487" />
+            <polyline points="2118.41,3477.7 2365.17,3477.7 2611.95,3477.7 2858.73,3477.7 3105.51,3477.7 " style="stroke:#000000;stroke-width:10" id="polyline4489" />
+            <polyline points="2118.41,3199.69 2365.17,3199.69 2611.95,3199.69 2858.73,3199.69 3105.51,3199.69 " style="stroke:#000000;stroke-width:10" id="polyline4491" />
+            <polyline points="2118.41,2921.7 2365.17,2921.7 2611.95,2921.7 2858.73,2921.7 3105.51,2921.7 " style="stroke:#000000;stroke-width:10" id="polyline4493" />
+        </g>
+        <g id="Sector_F">
+            <rect id="STF" width="987.09998" height="6950.3203" x="17705.68" y="2985.8201" />
+            <polyline id="polyline5101" points="17705.68,9936.14 17705.68,9658.13 17705.68,9380.12 17705.68,9102.1 17705.68,8824.08 17705.68,8546.07 17705.68,8268.07 17705.68,7990.04 17705.68,7712.03 17705.68,7434.02 17705.68,7156.01 17705.68,6877.99 17705.68,6599.98 17705.68,6321.96 17705.68,6043.94 17705.68,5765.93 17705.68,5487.92 17705.68,5209.91 17705.68,4931.89 17705.68,4653.88 17705.68,4375.86 17705.68,4097.85 17705.68,3819.83 17705.68,3541.82 17705.68,3263.81 17705.68,2985.82 " style="stroke:#000000;stroke-width:10" />
+            <polyline points="17952.44,9936.14 17952.44,9658.13 17952.44,9380.12 17952.44,9102.1 17952.44,8824.08 17952.44,8546.07 17952.44,8268.07 17952.44,7990.04 17952.44,7712.03 17952.44,7434.02 17952.44,7156.01 17952.44,6877.99 17952.44,6599.98 17952.44,6321.96 17952.44,6043.94 17952.44,5765.93 17952.44,5487.92 17952.44,5209.91 17952.44,4931.89 17952.44,4653.88 17952.44,4375.86 17952.44,4097.85 17952.44,3819.83 17952.44,3541.82 17952.44,3263.81 17952.44,2985.82 " style="stroke:#000000;stroke-width:10" id="polyline5103" />
+            <polyline points="18199.22,9936.14 18199.22,9658.13 18199.22,9380.12 18199.22,9102.1 18199.22,8824.08 18199.22,8546.07 18199.22,8268.07 18199.22,7990.04 18199.22,7712.03 18199.22,7434.02 18199.22,7156.01 18199.22,6877.99 18199.22,6599.98 18199.22,6321.96 18199.22,6043.94 18199.22,5765.93 18199.22,5487.92 18199.22,5209.91 18199.22,4931.89 18199.22,4653.88 18199.22,4375.86 18199.22,4097.85 18199.22,3819.83 18199.22,3541.82 18199.22,3263.81 18199.22,2985.82 " style="stroke:#000000;stroke-width:10" id="polyline5105" />
+            <polyline points="18446,9936.14 18446,9658.13 18446,9380.12 18446,9102.1 18446,8824.08 18446,8546.07 18446,8268.07 18446,7990.04 18446,7712.03 18446,7434.02 18446,7156.01 18446,6877.99 18446,6599.98 18446,6321.96 18446,6043.94 18446,5765.93 18446,5487.92 18446,5209.91 18446,4931.89 18446,4653.88 18446,4375.86 18446,4097.85 18446,3819.83 18446,3541.82 18446,3263.81 18446,2985.82 " style="stroke:#000000;stroke-width:10" id="polyline5107" />
+            <polyline points="18692.78,9936.14 18692.78,9658.13 18692.78,9380.12 18692.78,9102.1 18692.78,8824.08 18692.78,8546.07 18692.78,8268.07 18692.78,7990.04 18692.78,7712.03 18692.78,7434.02 18692.78,7156.01 18692.78,6877.99 18692.78,6599.98 18692.78,6321.96 18692.78,6043.94 18692.78,5765.93 18692.78,5487.92 18692.78,5209.91 18692.78,4931.89 18692.78,4653.88 18692.78,4375.86 18692.78,4097.85 18692.78,3819.83 18692.78,3541.82 18692.78,3263.81 18692.78,2985.82 " style="stroke:#000000;stroke-width:10" id="polyline5109" />
+            <polyline points="17705.68,9936.14 17952.44,9936.14 18199.22,9936.14 18446,9936.14 18692.78,9936.14 " style="stroke:#000000;stroke-width:10" id="polyline5111" />
+            <polyline points="17705.68,9658.13 17952.44,9658.13 18199.22,9658.13 18446,9658.13 18692.78,9658.13 " style="stroke:#000000;stroke-width:10" id="polyline5113" />
+            <polyline points="17705.68,9380.12 17952.44,9380.12 18199.22,9380.12 18446,9380.12 18692.78,9380.12 " style="stroke:#000000;stroke-width:10" id="polyline5115" />
+            <polyline points="17705.68,9102.1 17952.44,9102.1 18199.22,9102.1 18446,9102.1 18692.78,9102.1 " style="stroke:#000000;stroke-width:10" id="polyline5117" />
+            <polyline points="17705.68,8824.08 17952.44,8824.08 18199.22,8824.08 18446,8824.08 18692.78,8824.08 " style="stroke:#000000;stroke-width:10" id="polyline5119" />
+            <polyline points="17705.68,8546.07 17952.44,8546.07 18199.22,8546.07 18446,8546.07 18692.78,8546.07 " style="stroke:#000000;stroke-width:10" id="polyline5121" />
+            <polyline points="17705.68,8268.07 17952.44,8268.07 18199.22,8268.07 18446,8268.07 18692.78,8268.07 " style="stroke:#000000;stroke-width:10" id="polyline5123" />
+            <polyline points="17705.68,7990.04 17952.44,7990.04 18199.22,7990.04 18446,7990.04 18692.78,7990.04 " style="stroke:#000000;stroke-width:10" id="polyline5125" />
+            <polyline points="17705.68,7712.03 17952.44,7712.03 18199.22,7712.03 18446,7712.03 18692.78,7712.03 " style="stroke:#000000;stroke-width:10" id="polyline5127" />
+            <polyline points="17705.68,7434.02 17952.44,7434.02 18199.22,7434.02 18446,7434.02 18692.78,7434.02 " style="stroke:#000000;stroke-width:10" id="polyline5129" />
+            <polyline points="17705.68,7156.01 17952.44,7156.01 18199.22,7156.01 18446,7156.01 18692.78,7156.01 " style="stroke:#000000;stroke-width:10" id="polyline5131" />
+            <polyline points="17705.68,6877.99 17952.44,6877.99 18199.22,6877.99 18446,6877.99 18692.78,6877.99 " style="stroke:#000000;stroke-width:10" id="polyline5133" />
+            <polyline points="17705.68,6599.98 17952.44,6599.98 18199.22,6599.98 18446,6599.98 18692.78,6599.98 " style="stroke:#000000;stroke-width:10" id="polyline5135" />
+            <polyline points="17705.68,6321.96 17952.44,6321.96 18199.22,6321.96 18446,6321.96 18692.78,6321.96 " style="stroke:#000000;stroke-width:10" id="polyline5137" />
+            <polyline points="17705.68,6043.94 17952.44,6043.94 18199.22,6043.94 18446,6043.94 18692.78,6043.94 " style="stroke:#000000;stroke-width:10" id="polyline5139" />
+            <polyline points="17705.68,5765.93 17952.44,5765.93 18199.22,5765.93 18446,5765.93 18692.78,5765.93 " style="stroke:#000000;stroke-width:10" id="polyline5141" />
+            <polyline points="17705.68,5487.92 17952.44,5487.92 18199.22,5487.92 18446,5487.92 18692.78,5487.92 " style="stroke:#000000;stroke-width:10" id="polyline5143" />
+            <polyline points="17705.68,5209.91 17952.44,5209.91 18199.22,5209.91 18446,5209.91 18692.78,5209.91 " style="stroke:#000000;stroke-width:10" id="polyline5145" />
+            <polyline points="17705.68,4931.89 17952.44,4931.89 18199.22,4931.89 18446,4931.89 18692.78,4931.89 " style="stroke:#000000;stroke-width:10" id="polyline5147" />
+            <polyline points="17705.68,4653.88 17952.44,4653.88 18199.22,4653.88 18446,4653.88 18692.78,4653.88 " style="stroke:#000000;stroke-width:10" id="polyline5149" />
+            <polyline points="17705.68,4375.86 17952.44,4375.86 18199.22,4375.86 18446,4375.86 18692.78,4375.86 " style="stroke:#000000;stroke-width:10" id="polyline5151" />
+            <polyline points="17705.68,4097.85 17952.44,4097.85 18199.22,4097.85 18446,4097.85 18692.78,4097.85 " style="stroke:#000000;stroke-width:10" id="polyline5153" />
+            <polyline points="17705.68,3819.83 17952.44,3819.83 18199.22,3819.83 18446,3819.83 18692.78,3819.83 " style="stroke:#000000;stroke-width:10" id="polyline5155" />
+            <polyline points="17705.68,3541.82 17952.44,3541.82 18199.22,3541.82 18446,3541.82 18692.78,3541.82 " style="stroke:#000000;stroke-width:10" id="polyline5157" />
+            <polyline points="17705.68,3263.81 17952.44,3263.81 18199.22,3263.81 18446,3263.81 18692.78,3263.81 " style="stroke:#000000;stroke-width:10" id="polyline5159" />
+            <polyline points="17705.68,2985.82 17952.44,2985.82 18199.22,2985.82 18446,2985.82 18692.78,2985.82 " style="stroke:#000000;stroke-width:10" id="polyline5161" />
+        </g>
+        <g id="Sector_A">
+            <rect id="STA" width="987.09998" height="9038.1494" x="2082.0298" y="20649.07" />
+            <polyline id="polyline5769" points="2082.03,29687.22 2082.03,29325.69 2082.03,28964.17 2082.03,28602.64 2082.03,28241.1 2082.03,27879.58 2082.03,27518.07 2082.03,27156.52 2082.03,26795 2082.03,26433.48 2082.03,26071.95 2082.03,25710.42 2082.03,25348.9 2082.03,24987.36 2082.03,24625.82 2082.03,24264.3 2082.03,23902.78 2082.03,23541.26 2082.03,23179.72 2082.03,22818.2 2082.03,22456.66 2082.03,22095.14 2082.03,21733.61 2082.03,21372.08 2082.03,21010.56 2082.03,20649.07 " style="stroke:#000000;stroke-width:10" />
+            <polyline points="2328.79,29687.22 2328.79,29325.69 2328.79,28964.17 2328.79,28602.64 2328.79,28241.1 2328.79,27879.58 2328.79,27518.07 2328.79,27156.52 2328.79,26795 2328.79,26433.48 2328.79,26071.95 2328.79,25710.42 2328.79,25348.9 2328.79,24987.36 2328.79,24625.82 2328.79,24264.3 2328.79,23902.78 2328.79,23541.26 2328.79,23179.72 2328.79,22818.2 2328.79,22456.66 2328.79,22095.14 2328.79,21733.61 2328.79,21372.08 2328.79,21010.56 2328.79,20649.07 " style="stroke:#000000;stroke-width:10" id="polyline5771" />
+            <polyline points="2575.57,29687.22 2575.57,29325.69 2575.57,28964.17 2575.57,28602.64 2575.57,28241.1 2575.57,27879.58 2575.57,27518.07 2575.57,27156.52 2575.57,26795 2575.57,26433.48 2575.57,26071.95 2575.57,25710.42 2575.57,25348.9 2575.57,24987.36 2575.57,24625.82 2575.57,24264.3 2575.57,23902.78 2575.57,23541.26 2575.57,23179.72 2575.57,22818.2 2575.57,22456.66 2575.57,22095.14 2575.57,21733.61 2575.57,21372.08 2575.57,21010.56 2575.57,20649.07 " style="stroke:#000000;stroke-width:10" id="polyline5773" />
+            <polyline points="2822.35,29687.22 2822.35,29325.69 2822.35,28964.17 2822.35,28602.64 2822.35,28241.1 2822.35,27879.58 2822.35,27518.07 2822.35,27156.52 2822.35,26795 2822.35,26433.48 2822.35,26071.95 2822.35,25710.42 2822.35,25348.9 2822.35,24987.36 2822.35,24625.82 2822.35,24264.3 2822.35,23902.78 2822.35,23541.26 2822.35,23179.72 2822.35,22818.2 2822.35,22456.66 2822.35,22095.14 2822.35,21733.61 2822.35,21372.08 2822.35,21010.56 2822.35,20649.07 " style="stroke:#000000;stroke-width:10" id="polyline5775" />
+            <polyline points="3069.13,29687.22 3069.13,29325.69 3069.13,28964.17 3069.13,28602.64 3069.13,28241.1 3069.13,27879.58 3069.13,27518.07 3069.13,27156.52 3069.13,26795 3069.13,26433.48 3069.13,26071.95 3069.13,25710.42 3069.13,25348.9 3069.13,24987.36 3069.13,24625.82 3069.13,24264.3 3069.13,23902.78 3069.13,23541.26 3069.13,23179.72 3069.13,22818.2 3069.13,22456.66 3069.13,22095.14 3069.13,21733.61 3069.13,21372.08 3069.13,21010.56 3069.13,20649.07 " style="stroke:#000000;stroke-width:10" id="polyline5777" />
+            <polyline points="2082.03,29687.22 2328.79,29687.22 2575.57,29687.22 2822.35,29687.22 3069.13,29687.22 " style="stroke:#000000;stroke-width:10" id="polyline5779" />
+            <polyline points="2082.03,29325.69 2328.79,29325.69 2575.57,29325.69 2822.35,29325.69 3069.13,29325.69 " style="stroke:#000000;stroke-width:10" id="polyline5781" />
+            <polyline points="2082.03,28964.17 2328.79,28964.17 2575.57,28964.17 2822.35,28964.17 3069.13,28964.17 " style="stroke:#000000;stroke-width:10" id="polyline5783" />
+            <polyline points="2082.03,28602.64 2328.79,28602.64 2575.57,28602.64 2822.35,28602.64 3069.13,28602.64 " style="stroke:#000000;stroke-width:10" id="polyline5785" />
+            <polyline points="2082.03,28241.1 2328.79,28241.1 2575.57,28241.1 2822.35,28241.1 3069.13,28241.1 " style="stroke:#000000;stroke-width:10" id="polyline5787" />
+            <polyline points="2082.03,27879.58 2328.79,27879.58 2575.57,27879.58 2822.35,27879.58 3069.13,27879.58 " style="stroke:#000000;stroke-width:10" id="polyline5789" />
+            <polyline points="2082.03,27518.07 2328.79,27518.07 2575.57,27518.07 2822.35,27518.07 3069.13,27518.07 " style="stroke:#000000;stroke-width:10" id="polyline5791" />
+            <polyline points="2082.03,27156.52 2328.79,27156.52 2575.57,27156.52 2822.35,27156.52 3069.13,27156.52 " style="stroke:#000000;stroke-width:10" id="polyline5793" />
+            <polyline points="2082.03,26795 2328.79,26795 2575.57,26795 2822.35,26795 3069.13,26795 " style="stroke:#000000;stroke-width:10" id="polyline5795" />
+            <polyline points="2082.03,26433.48 2328.79,26433.48 2575.57,26433.48 2822.35,26433.48 3069.13,26433.48 " style="stroke:#000000;stroke-width:10" id="polyline5797" />
+            <polyline points="2082.03,26071.95 2328.79,26071.95 2575.57,26071.95 2822.35,26071.95 3069.13,26071.95 " style="stroke:#000000;stroke-width:10" id="polyline5799" />
+            <polyline points="2082.03,25710.42 2328.79,25710.42 2575.57,25710.42 2822.35,25710.42 3069.13,25710.42 " style="stroke:#000000;stroke-width:10" id="polyline5801" />
+            <polyline points="2082.03,25348.9 2328.79,25348.9 2575.57,25348.9 2822.35,25348.9 3069.13,25348.9 " style="stroke:#000000;stroke-width:10" id="polyline5803" />
+            <polyline points="2082.03,24987.36 2328.79,24987.36 2575.57,24987.36 2822.35,24987.36 3069.13,24987.36 " style="stroke:#000000;stroke-width:10" id="polyline5805" />
+            <polyline points="2082.03,24625.82 2328.79,24625.82 2575.57,24625.82 2822.35,24625.82 3069.13,24625.82 " style="stroke:#000000;stroke-width:10" id="polyline5807" />
+            <polyline points="2082.03,24264.3 2328.79,24264.3 2575.57,24264.3 2822.35,24264.3 3069.13,24264.3 " style="stroke:#000000;stroke-width:10" id="polyline5809" />
+            <polyline points="2082.03,23902.78 2328.79,23902.78 2575.57,23902.78 2822.35,23902.78 3069.13,23902.78 " style="stroke:#000000;stroke-width:10" id="polyline5811" />
+            <polyline points="2082.03,23541.26 2328.79,23541.26 2575.57,23541.26 2822.35,23541.26 3069.13,23541.26 " style="stroke:#000000;stroke-width:10" id="polyline5813" />
+            <polyline points="2082.03,23179.72 2328.79,23179.72 2575.57,23179.72 2822.35,23179.72 3069.13,23179.72 " style="stroke:#000000;stroke-width:10" id="polyline5815" />
+            <polyline points="2082.03,22818.2 2328.79,22818.2 2575.57,22818.2 2822.35,22818.2 3069.13,22818.2 " style="stroke:#000000;stroke-width:10" id="polyline5817" />
+            <polyline points="2082.03,22456.66 2328.79,22456.66 2575.57,22456.66 2822.35,22456.66 3069.13,22456.66 " style="stroke:#000000;stroke-width:10" id="polyline5819" />
+            <polyline points="2082.03,22095.14 2328.79,22095.14 2575.57,22095.14 2822.35,22095.14 3069.13,22095.14 " style="stroke:#000000;stroke-width:10" id="polyline5821" />
+            <polyline points="2082.03,21733.61 2328.79,21733.61 2575.57,21733.61 2822.35,21733.61 3069.13,21733.61 " style="stroke:#000000;stroke-width:10" id="polyline5823" />
+            <polyline points="2082.03,21372.08 2328.79,21372.08 2575.57,21372.08 2822.35,21372.08 3069.13,21372.08 " style="stroke:#000000;stroke-width:10" id="polyline5825" />
+            <polyline points="2082.03,21010.56 2328.79,21010.56 2575.57,21010.56 2822.35,21010.56 3069.13,21010.56 " style="stroke:#000000;stroke-width:10" id="polyline5827" />
+            <polyline points="2082.03,20649.07 2328.79,20649.07 2575.57,20649.07 2822.35,20649.07 3069.13,20649.07 " style="stroke:#000000;stroke-width:10" id="polyline5829" />
+        </g>
+        <g id="Sector_D">
+            <rect id="STD" width="987.09998" height="9024.8496" x="17705.67" y="20662.469" />
+            <polyline id="polyline6437" points="17705.67,29687.32 17705.67,29326.33 17705.67,28965.35 17705.67,28604.34 17705.67,28243.34 17705.67,27882.35 17705.67,27521.36 17705.67,27160.35 17705.67,26799.36 17705.67,26438.36 17705.67,26077.38 17705.67,25716.37 17705.67,25355.38 17705.67,24994.38 17705.67,24633.37 17705.67,24272.38 17705.67,23911.4 17705.67,23550.4 17705.67,23189.4 17705.67,22828.41 17705.67,22467.4 17705.67,22106.41 17705.67,21745.41 17705.67,21384.41 17705.67,21023.43 17705.67,20662.47 " style="stroke:#000000;stroke-width:10" />
+            <polyline points="17952.43,29687.32 17952.43,29326.33 17952.43,28965.35 17952.43,28604.34 17952.43,28243.34 17952.43,27882.35 17952.43,27521.36 17952.43,27160.35 17952.43,26799.36 17952.43,26438.36 17952.43,26077.38 17952.43,25716.37 17952.43,25355.38 17952.43,24994.38 17952.43,24633.37 17952.43,24272.38 17952.43,23911.4 17952.43,23550.4 17952.43,23189.4 17952.43,22828.41 17952.43,22467.4 17952.43,22106.41 17952.43,21745.41 17952.43,21384.41 17952.43,21023.43 17952.43,20662.47 " style="stroke:#000000;stroke-width:10" id="polyline6439" />
+            <polyline points="18199.21,29687.32 18199.21,29326.33 18199.21,28965.35 18199.21,28604.34 18199.21,28243.34 18199.21,27882.35 18199.21,27521.36 18199.21,27160.35 18199.21,26799.36 18199.21,26438.36 18199.21,26077.38 18199.21,25716.37 18199.21,25355.38 18199.21,24994.38 18199.21,24633.37 18199.21,24272.38 18199.21,23911.4 18199.21,23550.4 18199.21,23189.4 18199.21,22828.41 18199.21,22467.4 18199.21,22106.41 18199.21,21745.41 18199.21,21384.41 18199.21,21023.43 18199.21,20662.47 " style="stroke:#000000;stroke-width:10" id="polyline6441" />
+            <polyline points="18445.99,29687.32 18445.99,29326.33 18445.99,28965.35 18445.99,28604.34 18445.99,28243.34 18445.99,27882.35 18445.99,27521.36 18445.99,27160.35 18445.99,26799.36 18445.99,26438.36 18445.99,26077.38 18445.99,25716.37 18445.99,25355.38 18445.99,24994.38 18445.99,24633.37 18445.99,24272.38 18445.99,23911.4 18445.99,23550.4 18445.99,23189.4 18445.99,22828.41 18445.99,22467.4 18445.99,22106.41 18445.99,21745.41 18445.99,21384.41 18445.99,21023.43 18445.99,20662.47 " style="stroke:#000000;stroke-width:10" id="polyline6443" />
+            <polyline points="18692.77,29687.32 18692.77,29326.33 18692.77,28965.35 18692.77,28604.34 18692.77,28243.34 18692.77,27882.35 18692.77,27521.36 18692.77,27160.35 18692.77,26799.36 18692.77,26438.36 18692.77,26077.38 18692.77,25716.37 18692.77,25355.38 18692.77,24994.38 18692.77,24633.37 18692.77,24272.38 18692.77,23911.4 18692.77,23550.4 18692.77,23189.4 18692.77,22828.41 18692.77,22467.4 18692.77,22106.41 18692.77,21745.41 18692.77,21384.41 18692.77,21023.43 18692.77,20662.47 " style="stroke:#000000;stroke-width:10" id="polyline6445" />
+            <polyline points="17705.67,29687.32 17952.43,29687.32 18199.21,29687.32 18445.99,29687.32 18692.77,29687.32 " style="stroke:#000000;stroke-width:10" id="polyline6447" />
+            <polyline points="17705.67,29326.33 17952.43,29326.33 18199.21,29326.33 18445.99,29326.33 18692.77,29326.33 " style="stroke:#000000;stroke-width:10" id="polyline6449" />
+            <polyline points="17705.67,28965.35 17952.43,28965.35 18199.21,28965.35 18445.99,28965.35 18692.77,28965.35 " style="stroke:#000000;stroke-width:10" id="polyline6451" />
+            <polyline points="17705.67,28604.34 17952.43,28604.34 18199.21,28604.34 18445.99,28604.34 18692.77,28604.34 " style="stroke:#000000;stroke-width:10" id="polyline6453" />
+            <polyline points="17705.67,28243.34 17952.43,28243.34 18199.21,28243.34 18445.99,28243.34 18692.77,28243.34 " style="stroke:#000000;stroke-width:10" id="polyline6455" />
+            <polyline points="17705.67,27882.35 17952.43,27882.35 18199.21,27882.35 18445.99,27882.35 18692.77,27882.35 " style="stroke:#000000;stroke-width:10" id="polyline6457" />
+            <polyline points="17705.67,27521.36 17952.43,27521.36 18199.21,27521.36 18445.99,27521.36 18692.77,27521.36 " style="stroke:#000000;stroke-width:10" id="polyline6459" />
+            <polyline points="17705.67,27160.35 17952.43,27160.35 18199.21,27160.35 18445.99,27160.35 18692.77,27160.35 " style="stroke:#000000;stroke-width:10" id="polyline6461" />
+            <polyline points="17705.67,26799.36 17952.43,26799.36 18199.21,26799.36 18445.99,26799.36 18692.77,26799.36 " style="stroke:#000000;stroke-width:10" id="polyline6463" />
+            <polyline points="17705.67,26438.36 17952.43,26438.36 18199.21,26438.36 18445.99,26438.36 18692.77,26438.36 " style="stroke:#000000;stroke-width:10" id="polyline6465" />
+            <polyline points="17705.67,26077.38 17952.43,26077.38 18199.21,26077.38 18445.99,26077.38 18692.77,26077.38 " style="stroke:#000000;stroke-width:10" id="polyline6467" />
+            <polyline points="17705.67,25716.37 17952.43,25716.37 18199.21,25716.37 18445.99,25716.37 18692.77,25716.37 " style="stroke:#000000;stroke-width:10" id="polyline6469" />
+            <polyline points="17705.67,25355.38 17952.43,25355.38 18199.21,25355.38 18445.99,25355.38 18692.77,25355.38 " style="stroke:#000000;stroke-width:10" id="polyline6471" />
+            <polyline points="17705.67,24994.38 17952.43,24994.38 18199.21,24994.38 18445.99,24994.38 18692.77,24994.38 " style="stroke:#000000;stroke-width:10" id="polyline6473" />
+            <polyline points="17705.67,24633.37 17952.43,24633.37 18199.21,24633.37 18445.99,24633.37 18692.77,24633.37 " style="stroke:#000000;stroke-width:10" id="polyline6475" />
+            <polyline points="17705.67,24272.38 17952.43,24272.38 18199.21,24272.38 18445.99,24272.38 18692.77,24272.38 " style="stroke:#000000;stroke-width:10" id="polyline6477" />
+            <polyline points="17705.67,23911.4 17952.43,23911.4 18199.21,23911.4 18445.99,23911.4 18692.77,23911.4 " style="stroke:#000000;stroke-width:10" id="polyline6479" />
+            <polyline points="17705.67,23550.4 17952.43,23550.4 18199.21,23550.4 18445.99,23550.4 18692.77,23550.4 " style="stroke:#000000;stroke-width:10" id="polyline6481" />
+            <polyline points="17705.67,23189.4 17952.43,23189.4 18199.21,23189.4 18445.99,23189.4 18692.77,23189.4 " style="stroke:#000000;stroke-width:10" id="polyline6483" />
+            <polyline points="17705.67,22828.41 17952.43,22828.41 18199.21,22828.41 18445.99,22828.41 18692.77,22828.41 " style="stroke:#000000;stroke-width:10" id="polyline6485" />
+            <polyline points="17705.67,22467.4 17952.43,22467.4 18199.21,22467.4 18445.99,22467.4 18692.77,22467.4 " style="stroke:#000000;stroke-width:10" id="polyline6487" />
+            <polyline points="17705.67,22106.41 17952.43,22106.41 18199.21,22106.41 18445.99,22106.41 18692.77,22106.41 " style="stroke:#000000;stroke-width:10" id="polyline6489" />
+            <polyline points="17705.67,21745.41 17952.43,21745.41 18199.21,21745.41 18445.99,21745.41 18692.77,21745.41 " style="stroke:#000000;stroke-width:10" id="polyline6491" />
+            <polyline points="17705.67,21384.41 17952.43,21384.41 18199.21,21384.41 18445.99,21384.41 18692.77,21384.41 " style="stroke:#000000;stroke-width:10" id="polyline6493" />
+            <polyline points="17705.67,21023.43 17952.43,21023.43 18199.21,21023.43 18445.99,21023.43 18692.77,21023.43 " style="stroke:#000000;stroke-width:10" id="polyline6495" />
+            <polyline points="17705.67,20662.47 17952.43,20662.47 18199.21,20662.47 18445.99,20662.47 18692.77,20662.47 " style="stroke:#000000;stroke-width:10" id="polyline6497" />
+        </g>
+    </g>
+</svg>
